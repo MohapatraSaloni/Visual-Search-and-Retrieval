@@ -1,0 +1,5150 @@
+class,query_i,query_j,jaccard_top100
+Brick Kiln,0,1,0.0
+Brick Kiln,0,2,0.0
+Brick Kiln,0,3,0.0
+Brick Kiln,0,4,0.005025125628140704
+Brick Kiln,0,5,0.0
+Brick Kiln,0,6,0.005025125628140704
+Brick Kiln,0,7,0.0
+Brick Kiln,0,8,0.0
+Brick Kiln,0,9,0.02040816326530612
+Brick Kiln,0,10,0.0
+Brick Kiln,0,11,0.0
+Brick Kiln,0,12,0.0
+Brick Kiln,0,13,0.010101010101010102
+Brick Kiln,0,14,0.0
+Brick Kiln,0,15,0.0
+Brick Kiln,0,16,0.0
+Brick Kiln,0,17,0.0
+Brick Kiln,0,18,0.0
+Brick Kiln,0,19,0.0
+Brick Kiln,1,2,0.0
+Brick Kiln,1,3,0.0
+Brick Kiln,1,4,0.0
+Brick Kiln,1,5,0.0
+Brick Kiln,1,6,0.041666666666666664
+Brick Kiln,1,7,0.0
+Brick Kiln,1,8,0.0
+Brick Kiln,1,9,0.0
+Brick Kiln,1,10,0.0
+Brick Kiln,1,11,0.0
+Brick Kiln,1,12,0.0
+Brick Kiln,1,13,0.005025125628140704
+Brick Kiln,1,14,0.02564102564102564
+Brick Kiln,1,15,0.0
+Brick Kiln,1,16,0.0
+Brick Kiln,1,17,0.0
+Brick Kiln,1,18,0.0
+Brick Kiln,1,19,0.0
+Brick Kiln,2,3,0.0
+Brick Kiln,2,4,0.0
+Brick Kiln,2,5,0.0
+Brick Kiln,2,6,0.0
+Brick Kiln,2,7,0.0
+Brick Kiln,2,8,0.0
+Brick Kiln,2,9,0.0
+Brick Kiln,2,10,0.0
+Brick Kiln,2,11,0.0
+Brick Kiln,2,12,0.0
+Brick Kiln,2,13,0.0
+Brick Kiln,2,14,0.0
+Brick Kiln,2,15,0.0
+Brick Kiln,2,16,0.0
+Brick Kiln,2,17,0.0
+Brick Kiln,2,18,0.0
+Brick Kiln,2,19,0.0
+Brick Kiln,3,4,0.0
+Brick Kiln,3,5,0.0
+Brick Kiln,3,6,0.0
+Brick Kiln,3,7,0.0
+Brick Kiln,3,8,0.0
+Brick Kiln,3,9,0.0
+Brick Kiln,3,10,0.0
+Brick Kiln,3,11,0.0
+Brick Kiln,3,12,0.0
+Brick Kiln,3,13,0.0
+Brick Kiln,3,14,0.0
+Brick Kiln,3,15,0.0
+Brick Kiln,3,16,0.005025125628140704
+Brick Kiln,3,17,0.0
+Brick Kiln,3,18,0.0
+Brick Kiln,3,19,0.0
+Brick Kiln,4,5,0.0
+Brick Kiln,4,6,0.0
+Brick Kiln,4,7,0.0
+Brick Kiln,4,8,0.0
+Brick Kiln,4,9,0.08695652173913043
+Brick Kiln,4,10,0.02040816326530612
+Brick Kiln,4,11,0.0
+Brick Kiln,4,12,0.0
+Brick Kiln,4,13,0.0
+Brick Kiln,4,14,0.0
+Brick Kiln,4,15,0.0
+Brick Kiln,4,16,0.0
+Brick Kiln,4,17,0.0
+Brick Kiln,4,18,0.0
+Brick Kiln,4,19,0.0
+Brick Kiln,5,6,0.0
+Brick Kiln,5,7,0.0582010582010582
+Brick Kiln,5,8,0.0
+Brick Kiln,5,9,0.0
+Brick Kiln,5,10,0.0
+Brick Kiln,5,11,0.0
+Brick Kiln,5,12,0.005025125628140704
+Brick Kiln,5,13,0.0
+Brick Kiln,5,14,0.010101010101010102
+Brick Kiln,5,15,0.0
+Brick Kiln,5,16,0.0582010582010582
+Brick Kiln,5,17,0.0
+Brick Kiln,5,18,0.05263157894736842
+Brick Kiln,5,19,0.0
+Brick Kiln,6,7,0.0
+Brick Kiln,6,8,0.005025125628140704
+Brick Kiln,6,9,0.0
+Brick Kiln,6,10,0.0
+Brick Kiln,6,11,0.005025125628140704
+Brick Kiln,6,12,0.0
+Brick Kiln,6,13,0.010101010101010102
+Brick Kiln,6,14,0.005025125628140704
+Brick Kiln,6,15,0.0
+Brick Kiln,6,16,0.0
+Brick Kiln,6,17,0.0
+Brick Kiln,6,18,0.0
+Brick Kiln,6,19,0.0
+Brick Kiln,7,8,0.0
+Brick Kiln,7,9,0.0
+Brick Kiln,7,10,0.0
+Brick Kiln,7,11,0.0
+Brick Kiln,7,12,0.0
+Brick Kiln,7,13,0.0
+Brick Kiln,7,14,0.0
+Brick Kiln,7,15,0.0
+Brick Kiln,7,16,0.005025125628140704
+Brick Kiln,7,17,0.0
+Brick Kiln,7,18,0.010101010101010102
+Brick Kiln,7,19,0.0
+Brick Kiln,8,9,0.0
+Brick Kiln,8,10,0.0
+Brick Kiln,8,11,0.0
+Brick Kiln,8,12,0.0
+Brick Kiln,8,13,0.03626943005181347
+Brick Kiln,8,14,0.0
+Brick Kiln,8,15,0.0
+Brick Kiln,8,16,0.0
+Brick Kiln,8,17,0.0
+Brick Kiln,8,18,0.0
+Brick Kiln,8,19,0.0
+Brick Kiln,9,10,0.010101010101010102
+Brick Kiln,9,11,0.0
+Brick Kiln,9,12,0.0
+Brick Kiln,9,13,0.0
+Brick Kiln,9,14,0.0
+Brick Kiln,9,15,0.0
+Brick Kiln,9,16,0.0
+Brick Kiln,9,17,0.0
+Brick Kiln,9,18,0.0
+Brick Kiln,9,19,0.0
+Brick Kiln,10,11,0.010101010101010102
+Brick Kiln,10,12,0.0
+Brick Kiln,10,13,0.0
+Brick Kiln,10,14,0.0
+Brick Kiln,10,15,0.0
+Brick Kiln,10,16,0.0
+Brick Kiln,10,17,0.0
+Brick Kiln,10,18,0.0
+Brick Kiln,10,19,0.0
+Brick Kiln,11,12,0.0
+Brick Kiln,11,13,0.0
+Brick Kiln,11,14,0.0
+Brick Kiln,11,15,0.0
+Brick Kiln,11,16,0.0
+Brick Kiln,11,17,0.0
+Brick Kiln,11,18,0.0
+Brick Kiln,11,19,0.0
+Brick Kiln,12,13,0.0
+Brick Kiln,12,14,0.005025125628140704
+Brick Kiln,12,15,0.0
+Brick Kiln,12,16,0.010101010101010102
+Brick Kiln,12,17,0.0
+Brick Kiln,12,18,0.0
+Brick Kiln,12,19,0.0
+Brick Kiln,13,14,0.0
+Brick Kiln,13,15,0.0
+Brick Kiln,13,16,0.0
+Brick Kiln,13,17,0.0
+Brick Kiln,13,18,0.0
+Brick Kiln,13,19,0.0
+Brick Kiln,14,15,0.0
+Brick Kiln,14,16,0.0
+Brick Kiln,14,17,0.0
+Brick Kiln,14,18,0.0
+Brick Kiln,14,19,0.0
+Brick Kiln,15,16,0.0
+Brick Kiln,15,17,0.0
+Brick Kiln,15,18,0.0
+Brick Kiln,15,19,0.0
+Brick Kiln,16,17,0.005025125628140704
+Brick Kiln,16,18,0.015228426395939087
+Brick Kiln,16,19,0.0
+Brick Kiln,17,18,0.0
+Brick Kiln,17,19,0.0
+Brick Kiln,18,19,0.0
+Metro Shed,0,1,0.0
+Solar Panel,0,1,0.0
+Solar Panel,0,2,0.0
+Solar Panel,0,3,0.0
+Solar Panel,0,4,0.0
+Solar Panel,0,5,0.0
+Solar Panel,0,6,0.0
+Solar Panel,0,7,0.0
+Solar Panel,0,8,0.0
+Solar Panel,0,9,0.0
+Solar Panel,0,10,0.005025125628140704
+Solar Panel,0,11,0.0
+Solar Panel,0,12,0.0
+Solar Panel,0,13,0.0
+Solar Panel,0,14,0.0
+Solar Panel,0,15,0.0
+Solar Panel,0,16,0.0
+Solar Panel,0,17,0.0
+Solar Panel,0,18,0.0
+Solar Panel,0,19,0.0
+Solar Panel,0,20,0.0
+Solar Panel,0,21,0.010101010101010102
+Solar Panel,0,22,0.11731843575418995
+Solar Panel,0,23,0.06951871657754011
+Solar Panel,1,2,0.0
+Solar Panel,1,3,0.0
+Solar Panel,1,4,0.010101010101010102
+Solar Panel,1,5,0.0
+Solar Panel,1,6,0.0
+Solar Panel,1,7,0.0
+Solar Panel,1,8,0.010101010101010102
+Solar Panel,1,9,0.041666666666666664
+Solar Panel,1,10,0.0
+Solar Panel,1,11,0.0
+Solar Panel,1,12,0.010101010101010102
+Solar Panel,1,13,0.0
+Solar Panel,1,14,0.0
+Solar Panel,1,15,0.02040816326530612
+Solar Panel,1,16,0.005025125628140704
+Solar Panel,1,17,0.0
+Solar Panel,1,18,0.0
+Solar Panel,1,19,0.06951871657754011
+Solar Panel,1,20,0.0
+Solar Panel,1,21,0.0
+Solar Panel,1,22,0.0
+Solar Panel,1,23,0.010101010101010102
+Solar Panel,2,3,0.13636363636363635
+Solar Panel,2,4,0.0
+Solar Panel,2,5,0.0
+Solar Panel,2,6,0.005025125628140704
+Solar Panel,2,7,0.005025125628140704
+Solar Panel,2,8,0.0
+Solar Panel,2,9,0.005025125628140704
+Solar Panel,2,10,0.0
+Solar Panel,2,11,0.0
+Solar Panel,2,12,0.0989010989010989
+Solar Panel,2,13,0.07526881720430108
+Solar Panel,2,14,0.0
+Solar Panel,2,15,0.0
+Solar Panel,2,16,0.03626943005181347
+Solar Panel,2,17,0.0
+Solar Panel,2,18,0.0
+Solar Panel,2,19,0.0
+Solar Panel,2,20,0.010101010101010102
+Solar Panel,2,21,0.041666666666666664
+Solar Panel,2,22,0.005025125628140704
+Solar Panel,2,23,0.015228426395939087
+Solar Panel,3,4,0.0
+Solar Panel,3,5,0.0
+Solar Panel,3,6,0.0
+Solar Panel,3,7,0.005025125628140704
+Solar Panel,3,8,0.0
+Solar Panel,3,9,0.005025125628140704
+Solar Panel,3,10,0.0
+Solar Panel,3,11,0.0
+Solar Panel,3,12,0.005025125628140704
+Solar Panel,3,13,0.1111111111111111
+Solar Panel,3,14,0.0
+Solar Panel,3,15,0.005025125628140704
+Solar Panel,3,16,0.02564102564102564
+Solar Panel,3,17,0.005025125628140704
+Solar Panel,3,18,0.0
+Solar Panel,3,19,0.0
+Solar Panel,3,20,0.02040816326530612
+Solar Panel,3,21,0.17647058823529413
+Solar Panel,3,22,0.06382978723404255
+Solar Panel,3,23,0.02564102564102564
+Solar Panel,4,5,0.04712041884816754
+Solar Panel,4,6,0.0
+Solar Panel,4,7,0.1111111111111111
+Solar Panel,4,8,0.19047619047619047
+Solar Panel,4,9,0.13636363636363635
+Solar Panel,4,10,0.0
+Solar Panel,4,11,0.14285714285714285
+Solar Panel,4,12,0.005025125628140704
+Solar Panel,4,13,0.0
+Solar Panel,4,14,0.0
+Solar Panel,4,15,0.0
+Solar Panel,4,16,0.06382978723404255
+Solar Panel,4,17,0.005025125628140704
+Solar Panel,4,18,0.02564102564102564
+Solar Panel,4,19,0.015228426395939087
+Solar Panel,4,20,0.02040816326530612
+Solar Panel,4,21,0.0
+Solar Panel,4,22,0.0
+Solar Panel,4,23,0.0
+Solar Panel,5,6,0.0
+Solar Panel,5,7,0.0
+Solar Panel,5,8,0.04712041884816754
+Solar Panel,5,9,0.06382978723404255
+Solar Panel,5,10,0.0
+Solar Panel,5,11,0.02040816326530612
+Solar Panel,5,12,0.0
+Solar Panel,5,13,0.0
+Solar Panel,5,14,0.0
+Solar Panel,5,15,0.0
+Solar Panel,5,16,0.010101010101010102
+Solar Panel,5,17,0.0
+Solar Panel,5,18,0.010101010101010102
+Solar Panel,5,19,0.05263157894736842
+Solar Panel,5,20,0.0
+Solar Panel,5,21,0.0
+Solar Panel,5,22,0.0
+Solar Panel,5,23,0.0
+Solar Panel,6,7,0.0
+Solar Panel,6,8,0.0
+Solar Panel,6,9,0.0
+Solar Panel,6,10,0.04712041884816754
+Solar Panel,6,11,0.0
+Solar Panel,6,12,0.0
+Solar Panel,6,13,0.005025125628140704
+Solar Panel,6,14,0.13636363636363635
+Solar Panel,6,15,0.005025125628140704
+Solar Panel,6,16,0.0
+Solar Panel,6,17,0.0
+Solar Panel,6,18,0.0
+Solar Panel,6,19,0.005025125628140704
+Solar Panel,6,20,0.0
+Solar Panel,6,21,0.0
+Solar Panel,6,22,0.0
+Solar Panel,6,23,0.03626943005181347
+Solar Panel,7,8,0.0
+Solar Panel,7,9,0.005025125628140704
+Solar Panel,7,10,0.0
+Solar Panel,7,11,0.08695652173913043
+Solar Panel,7,12,0.005025125628140704
+Solar Panel,7,13,0.0
+Solar Panel,7,14,0.0
+Solar Panel,7,15,0.0
+Solar Panel,7,16,0.09289617486338798
+Solar Panel,7,17,0.02564102564102564
+Solar Panel,7,18,0.005025125628140704
+Solar Panel,7,19,0.0
+Solar Panel,7,20,0.13636363636363635
+Solar Panel,7,21,0.005025125628140704
+Solar Panel,7,22,0.0
+Solar Panel,7,23,0.0
+Solar Panel,8,9,0.08108108108108109
+Solar Panel,8,10,0.0
+Solar Panel,8,11,0.02040816326530612
+Solar Panel,8,12,0.0
+Solar Panel,8,13,0.0
+Solar Panel,8,14,0.0
+Solar Panel,8,15,0.0
+Solar Panel,8,16,0.015228426395939087
+Solar Panel,8,17,0.0
+Solar Panel,8,18,0.010101010101010102
+Solar Panel,8,19,0.041666666666666664
+Solar Panel,8,20,0.0
+Solar Panel,8,21,0.0
+Solar Panel,8,22,0.0
+Solar Panel,8,23,0.0
+Solar Panel,9,10,0.0
+Solar Panel,9,11,0.08695652173913043
+Solar Panel,9,12,0.030927835051546393
+Solar Panel,9,13,0.0
+Solar Panel,9,14,0.0
+Solar Panel,9,15,0.0
+Solar Panel,9,16,0.041666666666666664
+Solar Panel,9,17,0.0
+Solar Panel,9,18,0.030927835051546393
+Solar Panel,9,19,0.0582010582010582
+Solar Panel,9,20,0.010101010101010102
+Solar Panel,9,21,0.0
+Solar Panel,9,22,0.0
+Solar Panel,9,23,0.0
+Solar Panel,10,11,0.0
+Solar Panel,10,12,0.0
+Solar Panel,10,13,0.0
+Solar Panel,10,14,0.02040816326530612
+Solar Panel,10,15,0.0
+Solar Panel,10,16,0.0
+Solar Panel,10,17,0.0
+Solar Panel,10,18,0.0
+Solar Panel,10,19,0.0
+Solar Panel,10,20,0.0
+Solar Panel,10,21,0.0
+Solar Panel,10,22,0.0
+Solar Panel,10,23,0.0
+Solar Panel,11,12,0.005025125628140704
+Solar Panel,11,13,0.0
+Solar Panel,11,14,0.0
+Solar Panel,11,15,0.0
+Solar Panel,11,16,0.03626943005181347
+Solar Panel,11,17,0.015228426395939087
+Solar Panel,11,18,0.02040816326530612
+Solar Panel,11,19,0.005025125628140704
+Solar Panel,11,20,0.1111111111111111
+Solar Panel,11,21,0.0
+Solar Panel,11,22,0.0
+Solar Panel,11,23,0.0
+Solar Panel,12,13,0.015228426395939087
+Solar Panel,12,14,0.0
+Solar Panel,12,15,0.0
+Solar Panel,12,16,0.03626943005181347
+Solar Panel,12,17,0.0
+Solar Panel,12,18,0.010101010101010102
+Solar Panel,12,19,0.005025125628140704
+Solar Panel,12,20,0.005025125628140704
+Solar Panel,12,21,0.005025125628140704
+Solar Panel,12,22,0.0
+Solar Panel,12,23,0.0
+Solar Panel,13,14,0.0
+Solar Panel,13,15,0.0
+Solar Panel,13,16,0.005025125628140704
+Solar Panel,13,17,0.0
+Solar Panel,13,18,0.0
+Solar Panel,13,19,0.0
+Solar Panel,13,20,0.005025125628140704
+Solar Panel,13,21,0.21212121212121213
+Solar Panel,13,22,0.08695652173913043
+Solar Panel,13,23,0.005025125628140704
+Solar Panel,14,15,0.0
+Solar Panel,14,16,0.0
+Solar Panel,14,17,0.0
+Solar Panel,14,18,0.0
+Solar Panel,14,19,0.0
+Solar Panel,14,20,0.0
+Solar Panel,14,21,0.0
+Solar Panel,14,22,0.0
+Solar Panel,14,23,0.0582010582010582
+Solar Panel,15,16,0.0
+Solar Panel,15,17,0.0
+Solar Panel,15,18,0.0
+Solar Panel,15,19,0.0
+Solar Panel,15,20,0.0
+Solar Panel,15,21,0.015228426395939087
+Solar Panel,15,22,0.0
+Solar Panel,15,23,0.0
+Solar Panel,16,17,0.005025125628140704
+Solar Panel,16,18,0.030927835051546393
+Solar Panel,16,19,0.005025125628140704
+Solar Panel,16,20,0.06382978723404255
+Solar Panel,16,21,0.005025125628140704
+Solar Panel,16,22,0.0
+Solar Panel,16,23,0.010101010101010102
+Solar Panel,17,18,0.0
+Solar Panel,17,19,0.0
+Solar Panel,17,20,0.02564102564102564
+Solar Panel,17,21,0.0
+Solar Panel,17,22,0.0
+Solar Panel,17,23,0.0
+Solar Panel,18,19,0.03626943005181347
+Solar Panel,18,20,0.0
+Solar Panel,18,21,0.0
+Solar Panel,18,22,0.0
+Solar Panel,18,23,0.0
+Solar Panel,19,20,0.0
+Solar Panel,19,21,0.0
+Solar Panel,19,22,0.0
+Solar Panel,19,23,0.0
+Solar Panel,20,21,0.0
+Solar Panel,20,22,0.0
+Solar Panel,20,23,0.0
+Solar Panel,21,22,0.25
+Solar Panel,21,23,0.0582010582010582
+Solar Panel,22,23,0.10497237569060773
+Play Ground,0,1,0.0
+Play Ground,0,2,0.0
+Play Ground,0,3,0.0
+Play Ground,0,4,0.0
+Play Ground,0,5,0.0
+Play Ground,0,6,0.0
+Play Ground,0,7,0.0
+Play Ground,0,8,0.0
+Play Ground,0,9,0.0
+Play Ground,0,10,0.0
+Play Ground,0,11,0.0
+Play Ground,0,12,0.0
+Play Ground,0,13,0.02040816326530612
+Play Ground,0,14,0.0
+Play Ground,0,15,0.0
+Play Ground,0,16,0.0
+Play Ground,1,2,0.0
+Play Ground,1,3,0.0
+Play Ground,1,4,0.0
+Play Ground,1,5,0.0
+Play Ground,1,6,0.0
+Play Ground,1,7,0.0
+Play Ground,1,8,0.0
+Play Ground,1,9,0.0
+Play Ground,1,10,0.030927835051546393
+Play Ground,1,11,0.0
+Play Ground,1,12,0.0
+Play Ground,1,13,0.0
+Play Ground,1,14,0.0
+Play Ground,1,15,0.0
+Play Ground,1,16,0.0
+Play Ground,2,3,0.0
+Play Ground,2,4,0.06951871657754011
+Play Ground,2,5,0.0
+Play Ground,2,6,0.0
+Play Ground,2,7,0.0
+Play Ground,2,8,0.005025125628140704
+Play Ground,2,9,0.0
+Play Ground,2,10,0.0
+Play Ground,2,11,0.0
+Play Ground,2,12,0.010101010101010102
+Play Ground,2,13,0.0
+Play Ground,2,14,0.010101010101010102
+Play Ground,2,15,0.0
+Play Ground,2,16,0.0
+Play Ground,3,4,0.0
+Play Ground,3,5,0.0
+Play Ground,3,6,0.0
+Play Ground,3,7,0.015228426395939087
+Play Ground,3,8,0.0
+Play Ground,3,9,0.0
+Play Ground,3,10,0.0
+Play Ground,3,11,0.0
+Play Ground,3,12,0.0
+Play Ground,3,13,0.0
+Play Ground,3,14,0.0
+Play Ground,3,15,0.0
+Play Ground,3,16,0.0
+Play Ground,4,5,0.0
+Play Ground,4,6,0.0
+Play Ground,4,7,0.0
+Play Ground,4,8,0.015228426395939087
+Play Ground,4,9,0.0
+Play Ground,4,10,0.0
+Play Ground,4,11,0.0
+Play Ground,4,12,0.0
+Play Ground,4,13,0.0
+Play Ground,4,14,0.005025125628140704
+Play Ground,4,15,0.0
+Play Ground,4,16,0.0
+Play Ground,5,6,0.0
+Play Ground,5,7,0.0
+Play Ground,5,8,0.0
+Play Ground,5,9,0.0
+Play Ground,5,10,0.0
+Play Ground,5,11,0.0
+Play Ground,5,12,0.0
+Play Ground,5,13,0.0
+Play Ground,5,14,0.0
+Play Ground,5,15,0.0
+Play Ground,5,16,0.0
+Play Ground,6,7,0.0
+Play Ground,6,8,0.005025125628140704
+Play Ground,6,9,0.0
+Play Ground,6,10,0.0
+Play Ground,6,11,0.0
+Play Ground,6,12,0.0
+Play Ground,6,13,0.0
+Play Ground,6,14,0.0
+Play Ground,6,15,0.005025125628140704
+Play Ground,6,16,0.0
+Play Ground,7,8,0.0
+Play Ground,7,9,0.0
+Play Ground,7,10,0.0
+Play Ground,7,11,0.0
+Play Ground,7,12,0.0
+Play Ground,7,13,0.0
+Play Ground,7,14,0.0
+Play Ground,7,15,0.0
+Play Ground,7,16,0.005025125628140704
+Play Ground,8,9,0.0
+Play Ground,8,10,0.0
+Play Ground,8,11,0.0
+Play Ground,8,12,0.0
+Play Ground,8,13,0.0
+Play Ground,8,14,0.11731843575418995
+Play Ground,8,15,0.0
+Play Ground,8,16,0.0
+Play Ground,9,10,0.0
+Play Ground,9,11,0.0
+Play Ground,9,12,0.0
+Play Ground,9,13,0.0
+Play Ground,9,14,0.0
+Play Ground,9,15,0.0
+Play Ground,9,16,0.0
+Play Ground,10,11,0.0
+Play Ground,10,12,0.005025125628140704
+Play Ground,10,13,0.02040816326530612
+Play Ground,10,14,0.0
+Play Ground,10,15,0.0
+Play Ground,10,16,0.0
+Play Ground,11,12,0.0
+Play Ground,11,13,0.0
+Play Ground,11,14,0.0
+Play Ground,11,15,0.010101010101010102
+Play Ground,11,16,0.005025125628140704
+Play Ground,12,13,0.005025125628140704
+Play Ground,12,14,0.0
+Play Ground,12,15,0.0
+Play Ground,12,16,0.0
+Play Ground,13,14,0.0
+Play Ground,13,15,0.0
+Play Ground,13,16,0.0
+Play Ground,14,15,0.0
+Play Ground,14,16,0.0
+Play Ground,15,16,0.0
+STP,0,1,0.03626943005181347
+STP,0,2,0.06382978723404255
+STP,0,3,0.010101010101010102
+STP,0,4,0.005025125628140704
+STP,0,5,0.0
+STP,0,6,0.0
+STP,0,7,0.0
+STP,0,8,0.0
+STP,0,9,0.005025125628140704
+STP,0,10,0.005025125628140704
+STP,0,11,0.0
+STP,0,12,0.010101010101010102
+STP,0,13,0.0
+STP,0,14,0.0
+STP,0,15,0.0
+STP,0,16,0.0
+STP,0,17,0.0
+STP,0,18,0.0
+STP,0,19,0.0
+STP,0,20,0.0
+STP,0,21,0.0
+STP,0,22,0.0
+STP,1,2,0.0
+STP,1,3,0.0
+STP,1,4,0.0
+STP,1,5,0.0
+STP,1,6,0.0
+STP,1,7,0.0
+STP,1,8,0.0
+STP,1,9,0.0
+STP,1,10,0.0
+STP,1,11,0.0
+STP,1,12,0.0
+STP,1,13,0.0
+STP,1,14,0.0
+STP,1,15,0.0
+STP,1,16,0.0
+STP,1,17,0.0
+STP,1,18,0.0
+STP,1,19,0.0
+STP,1,20,0.0
+STP,1,21,0.0
+STP,1,22,0.0
+STP,2,3,0.010101010101010102
+STP,2,4,0.06951871657754011
+STP,2,5,0.05263157894736842
+STP,2,6,0.0
+STP,2,7,0.010101010101010102
+STP,2,8,0.0
+STP,2,9,0.005025125628140704
+STP,2,10,0.0
+STP,2,11,0.015228426395939087
+STP,2,12,0.0
+STP,2,13,0.0
+STP,2,14,0.0
+STP,2,15,0.0
+STP,2,16,0.0
+STP,2,17,0.0
+STP,2,18,0.0
+STP,2,19,0.0
+STP,2,20,0.0
+STP,2,21,0.0
+STP,2,22,0.0
+STP,3,4,0.0
+STP,3,5,0.0
+STP,3,6,0.005025125628140704
+STP,3,7,0.0
+STP,3,8,0.02564102564102564
+STP,3,9,0.06951871657754011
+STP,3,10,0.02564102564102564
+STP,3,11,0.08695652173913043
+STP,3,12,0.0
+STP,3,13,0.0
+STP,3,14,0.0
+STP,3,15,0.0
+STP,3,16,0.0
+STP,3,17,0.0
+STP,3,18,0.0
+STP,3,19,0.0
+STP,3,20,0.0
+STP,3,21,0.0
+STP,3,22,0.0
+STP,4,5,0.12994350282485875
+STP,4,6,0.0
+STP,4,7,0.0
+STP,4,8,0.0
+STP,4,9,0.010101010101010102
+STP,4,10,0.041666666666666664
+STP,4,11,0.0
+STP,4,12,0.005025125628140704
+STP,4,13,0.0
+STP,4,14,0.0
+STP,4,15,0.0
+STP,4,16,0.0
+STP,4,17,0.0
+STP,4,18,0.0
+STP,4,19,0.0
+STP,4,20,0.0
+STP,4,21,0.0
+STP,4,22,0.0
+STP,5,6,0.0
+STP,5,7,0.0
+STP,5,8,0.0
+STP,5,9,0.0
+STP,5,10,0.0
+STP,5,11,0.0
+STP,5,12,0.0
+STP,5,13,0.0
+STP,5,14,0.0
+STP,5,15,0.0
+STP,5,16,0.0
+STP,5,17,0.0
+STP,5,18,0.0
+STP,5,19,0.0
+STP,5,20,0.0
+STP,5,21,0.005025125628140704
+STP,5,22,0.0
+STP,6,7,0.2345679012345679
+STP,6,8,0.015228426395939087
+STP,6,9,0.005025125628140704
+STP,6,10,0.015228426395939087
+STP,6,11,0.015228426395939087
+STP,6,12,0.0
+STP,6,13,0.0
+STP,6,14,0.0
+STP,6,15,0.0
+STP,6,16,0.0
+STP,6,17,0.0
+STP,6,18,0.0
+STP,6,19,0.0
+STP,6,20,0.0
+STP,6,21,0.0
+STP,6,22,0.0
+STP,7,8,0.005025125628140704
+STP,7,9,0.0
+STP,7,10,0.0
+STP,7,11,0.02040816326530612
+STP,7,12,0.0
+STP,7,13,0.005025125628140704
+STP,7,14,0.0
+STP,7,15,0.0
+STP,7,16,0.0
+STP,7,17,0.0
+STP,7,18,0.0
+STP,7,19,0.0
+STP,7,20,0.0
+STP,7,21,0.0
+STP,7,22,0.0
+STP,8,9,0.041666666666666664
+STP,8,10,0.041666666666666664
+STP,8,11,0.10497237569060773
+STP,8,12,0.0
+STP,8,13,0.0
+STP,8,14,0.0
+STP,8,15,0.0
+STP,8,16,0.0
+STP,8,17,0.0
+STP,8,18,0.0
+STP,8,19,0.0
+STP,8,20,0.0
+STP,8,21,0.0
+STP,8,22,0.0
+STP,9,10,0.3793103448275862
+STP,9,11,0.1111111111111111
+STP,9,12,0.030927835051546393
+STP,9,13,0.0
+STP,9,14,0.0
+STP,9,15,0.0
+STP,9,16,0.0
+STP,9,17,0.0
+STP,9,18,0.0
+STP,9,19,0.0
+STP,9,20,0.0
+STP,9,21,0.0
+STP,9,22,0.0
+STP,10,11,0.13636363636363635
+STP,10,12,0.030927835051546393
+STP,10,13,0.0
+STP,10,14,0.0
+STP,10,15,0.0
+STP,10,16,0.0
+STP,10,17,0.0
+STP,10,18,0.0
+STP,10,19,0.0
+STP,10,20,0.0
+STP,10,21,0.0
+STP,10,22,0.0
+STP,11,12,0.0
+STP,11,13,0.0
+STP,11,14,0.0
+STP,11,15,0.0
+STP,11,16,0.0
+STP,11,17,0.0
+STP,11,18,0.0
+STP,11,19,0.0
+STP,11,20,0.0
+STP,11,21,0.0
+STP,11,22,0.0
+STP,12,13,0.0
+STP,12,14,0.0
+STP,12,15,0.0
+STP,12,16,0.0
+STP,12,17,0.0
+STP,12,18,0.0
+STP,12,19,0.0
+STP,12,20,0.0
+STP,12,21,0.0
+STP,12,22,0.0
+STP,13,14,0.0
+STP,13,15,0.010101010101010102
+STP,13,16,0.0
+STP,13,17,0.0
+STP,13,18,0.0
+STP,13,19,0.005025125628140704
+STP,13,20,0.04712041884816754
+STP,13,21,0.02564102564102564
+STP,13,22,0.0
+STP,14,15,0.05263157894736842
+STP,14,16,0.0
+STP,14,17,0.0
+STP,14,18,0.015228426395939087
+STP,14,19,0.0
+STP,14,20,0.015228426395939087
+STP,14,21,0.041666666666666664
+STP,14,22,0.0
+STP,15,16,0.0
+STP,15,17,0.0
+STP,15,18,0.02564102564102564
+STP,15,19,0.0
+STP,15,20,0.005025125628140704
+STP,15,21,0.010101010101010102
+STP,15,22,0.0
+STP,16,17,0.25
+STP,16,18,0.0
+STP,16,19,0.0
+STP,16,20,0.0
+STP,16,21,0.0
+STP,16,22,0.0
+STP,17,18,0.0
+STP,17,19,0.0
+STP,17,20,0.0
+STP,17,21,0.0
+STP,17,22,0.0
+STP,18,19,0.0
+STP,18,20,0.0
+STP,18,21,0.0
+STP,18,22,0.0
+STP,19,20,0.0
+STP,19,21,0.0
+STP,19,22,0.1111111111111111
+STP,20,21,0.15606936416184972
+STP,20,22,0.0
+STP,21,22,0.0
+Sheds,0,1,0.22699386503067484
+Sheds,0,2,0.0
+Sheds,0,3,0.0
+Sheds,0,4,0.0
+Sheds,0,5,0.0
+Sheds,0,6,0.0
+Sheds,0,7,0.0
+Sheds,0,8,0.0
+Sheds,0,9,0.0
+Sheds,0,10,0.0
+Sheds,0,11,0.0
+Sheds,0,12,0.0
+Sheds,0,13,0.0
+Sheds,0,14,0.0
+Sheds,0,15,0.0
+Sheds,0,16,0.005025125628140704
+Sheds,0,17,0.0
+Sheds,0,18,0.0
+Sheds,0,19,0.0
+Sheds,0,20,0.010101010101010102
+Sheds,0,21,0.0
+Sheds,0,22,0.05263157894736842
+Sheds,0,23,0.0
+Sheds,0,24,0.0
+Sheds,0,25,0.005025125628140704
+Sheds,0,26,0.02564102564102564
+Sheds,0,27,0.0
+Sheds,0,28,0.0
+Sheds,0,29,0.0
+Sheds,0,30,0.005025125628140704
+Sheds,0,31,0.0
+Sheds,0,32,0.0
+Sheds,0,33,0.0
+Sheds,0,34,0.0
+Sheds,0,35,0.0
+Sheds,0,36,0.0
+Sheds,0,37,0.0
+Sheds,0,38,0.0
+Sheds,0,39,0.0
+Sheds,0,40,0.0
+Sheds,0,41,0.0
+Sheds,0,42,0.0
+Sheds,0,43,0.0
+Sheds,0,44,0.0
+Sheds,0,45,0.0
+Sheds,0,46,0.0
+Sheds,0,47,0.0
+Sheds,0,48,0.0
+Sheds,0,49,0.0
+Sheds,0,50,0.0
+Sheds,0,51,0.0
+Sheds,0,52,0.0
+Sheds,0,53,0.0
+Sheds,0,54,0.0
+Sheds,0,55,0.0
+Sheds,0,56,0.0
+Sheds,0,57,0.0
+Sheds,0,58,0.0
+Sheds,0,59,0.0
+Sheds,0,60,0.0
+Sheds,0,61,0.0
+Sheds,0,62,0.0
+Sheds,0,63,0.0
+Sheds,0,64,0.0
+Sheds,0,65,0.02040816326530612
+Sheds,0,66,0.0
+Sheds,0,67,0.0
+Sheds,0,68,0.0
+Sheds,0,69,0.0
+Sheds,0,70,0.0
+Sheds,0,71,0.0
+Sheds,0,72,0.015228426395939087
+Sheds,0,73,0.0
+Sheds,0,74,0.0
+Sheds,0,75,0.0
+Sheds,0,76,0.005025125628140704
+Sheds,0,77,0.0
+Sheds,0,78,0.0
+Sheds,0,79,0.0
+Sheds,0,80,0.0
+Sheds,0,81,0.0
+Sheds,0,82,0.0
+Sheds,0,83,0.0
+Sheds,0,84,0.0
+Sheds,0,85,0.0
+Sheds,0,86,0.0
+Sheds,1,2,0.0
+Sheds,1,3,0.0
+Sheds,1,4,0.0
+Sheds,1,5,0.0
+Sheds,1,6,0.0
+Sheds,1,7,0.0
+Sheds,1,8,0.0
+Sheds,1,9,0.0
+Sheds,1,10,0.0
+Sheds,1,11,0.0
+Sheds,1,12,0.0
+Sheds,1,13,0.0
+Sheds,1,14,0.0
+Sheds,1,15,0.0
+Sheds,1,16,0.005025125628140704
+Sheds,1,17,0.0
+Sheds,1,18,0.0
+Sheds,1,19,0.0
+Sheds,1,20,0.015228426395939087
+Sheds,1,21,0.005025125628140704
+Sheds,1,22,0.041666666666666664
+Sheds,1,23,0.0
+Sheds,1,24,0.005025125628140704
+Sheds,1,25,0.015228426395939087
+Sheds,1,26,0.02040816326530612
+Sheds,1,27,0.005025125628140704
+Sheds,1,28,0.0
+Sheds,1,29,0.0
+Sheds,1,30,0.0
+Sheds,1,31,0.0
+Sheds,1,32,0.0
+Sheds,1,33,0.0
+Sheds,1,34,0.0
+Sheds,1,35,0.0
+Sheds,1,36,0.0
+Sheds,1,37,0.0
+Sheds,1,38,0.0
+Sheds,1,39,0.0
+Sheds,1,40,0.0
+Sheds,1,41,0.0
+Sheds,1,42,0.0
+Sheds,1,43,0.0
+Sheds,1,44,0.0
+Sheds,1,45,0.0
+Sheds,1,46,0.0
+Sheds,1,47,0.0
+Sheds,1,48,0.0
+Sheds,1,49,0.0
+Sheds,1,50,0.0
+Sheds,1,51,0.0
+Sheds,1,52,0.0
+Sheds,1,53,0.0
+Sheds,1,54,0.0
+Sheds,1,55,0.0
+Sheds,1,56,0.0
+Sheds,1,57,0.0
+Sheds,1,58,0.0
+Sheds,1,59,0.0
+Sheds,1,60,0.0
+Sheds,1,61,0.0
+Sheds,1,62,0.0
+Sheds,1,63,0.005025125628140704
+Sheds,1,64,0.015228426395939087
+Sheds,1,65,0.02564102564102564
+Sheds,1,66,0.0
+Sheds,1,67,0.0
+Sheds,1,68,0.0
+Sheds,1,69,0.0
+Sheds,1,70,0.0
+Sheds,1,71,0.0
+Sheds,1,72,0.005025125628140704
+Sheds,1,73,0.0
+Sheds,1,74,0.0
+Sheds,1,75,0.0
+Sheds,1,76,0.005025125628140704
+Sheds,1,77,0.010101010101010102
+Sheds,1,78,0.0
+Sheds,1,79,0.0
+Sheds,1,80,0.0
+Sheds,1,81,0.0
+Sheds,1,82,0.0
+Sheds,1,83,0.0
+Sheds,1,84,0.02040816326530612
+Sheds,1,85,0.0
+Sheds,1,86,0.0
+Sheds,2,3,0.0
+Sheds,2,4,0.0
+Sheds,2,5,0.0
+Sheds,2,6,0.0
+Sheds,2,7,0.0
+Sheds,2,8,0.0
+Sheds,2,9,0.0
+Sheds,2,10,0.0
+Sheds,2,11,0.0
+Sheds,2,12,0.0
+Sheds,2,13,0.0
+Sheds,2,14,0.0
+Sheds,2,15,0.015228426395939087
+Sheds,2,16,0.0
+Sheds,2,17,0.0
+Sheds,2,18,0.010101010101010102
+Sheds,2,19,0.0
+Sheds,2,20,0.0
+Sheds,2,21,0.0
+Sheds,2,22,0.010101010101010102
+Sheds,2,23,0.005025125628140704
+Sheds,2,24,0.0
+Sheds,2,25,0.02564102564102564
+Sheds,2,26,0.0
+Sheds,2,27,0.005025125628140704
+Sheds,2,28,0.0
+Sheds,2,29,0.0
+Sheds,2,30,0.03626943005181347
+Sheds,2,31,0.0
+Sheds,2,32,0.0
+Sheds,2,33,0.0
+Sheds,2,34,0.0
+Sheds,2,35,0.0
+Sheds,2,36,0.0
+Sheds,2,37,0.0
+Sheds,2,38,0.0
+Sheds,2,39,0.0
+Sheds,2,40,0.0
+Sheds,2,41,0.0
+Sheds,2,42,0.0
+Sheds,2,43,0.0
+Sheds,2,44,0.0
+Sheds,2,45,0.0
+Sheds,2,46,0.0
+Sheds,2,47,0.0
+Sheds,2,48,0.0
+Sheds,2,49,0.0
+Sheds,2,50,0.0
+Sheds,2,51,0.0
+Sheds,2,52,0.0
+Sheds,2,53,0.0
+Sheds,2,54,0.0
+Sheds,2,55,0.0
+Sheds,2,56,0.0
+Sheds,2,57,0.0
+Sheds,2,58,0.0
+Sheds,2,59,0.005025125628140704
+Sheds,2,60,0.0
+Sheds,2,61,0.0
+Sheds,2,62,0.0
+Sheds,2,63,0.0
+Sheds,2,64,0.0
+Sheds,2,65,0.0
+Sheds,2,66,0.0
+Sheds,2,67,0.1111111111111111
+Sheds,2,68,0.0
+Sheds,2,69,0.0
+Sheds,2,70,0.005025125628140704
+Sheds,2,71,0.0
+Sheds,2,72,0.015228426395939087
+Sheds,2,73,0.005025125628140704
+Sheds,2,74,0.05263157894736842
+Sheds,2,75,0.0
+Sheds,2,76,0.0
+Sheds,2,77,0.0
+Sheds,2,78,0.0
+Sheds,2,79,0.0
+Sheds,2,80,0.0
+Sheds,2,81,0.0
+Sheds,2,82,0.0
+Sheds,2,83,0.0
+Sheds,2,84,0.03626943005181347
+Sheds,2,85,0.0
+Sheds,2,86,0.0
+Sheds,3,4,0.0
+Sheds,3,5,0.0
+Sheds,3,6,0.0
+Sheds,3,7,0.0
+Sheds,3,8,0.0
+Sheds,3,9,0.0
+Sheds,3,10,0.10497237569060773
+Sheds,3,11,0.3793103448275862
+Sheds,3,12,0.0
+Sheds,3,13,0.0
+Sheds,3,14,0.0
+Sheds,3,15,0.0
+Sheds,3,16,0.0
+Sheds,3,17,0.0
+Sheds,3,18,0.0
+Sheds,3,19,0.005025125628140704
+Sheds,3,20,0.0
+Sheds,3,21,0.0
+Sheds,3,22,0.0
+Sheds,3,23,0.0
+Sheds,3,24,0.0
+Sheds,3,25,0.0
+Sheds,3,26,0.0
+Sheds,3,27,0.0
+Sheds,3,28,0.0
+Sheds,3,29,0.0
+Sheds,3,30,0.0
+Sheds,3,31,0.1695906432748538
+Sheds,3,32,0.1695906432748538
+Sheds,3,33,0.1695906432748538
+Sheds,3,34,0.1695906432748538
+Sheds,3,35,0.1695906432748538
+Sheds,3,36,0.1695906432748538
+Sheds,3,37,0.1695906432748538
+Sheds,3,38,0.1695906432748538
+Sheds,3,39,0.1695906432748538
+Sheds,3,40,0.1695906432748538
+Sheds,3,41,0.1695906432748538
+Sheds,3,42,0.1695906432748538
+Sheds,3,43,0.1695906432748538
+Sheds,3,44,0.1695906432748538
+Sheds,3,45,0.1695906432748538
+Sheds,3,46,0.1695906432748538
+Sheds,3,47,0.0
+Sheds,3,48,0.0
+Sheds,3,49,0.0
+Sheds,3,50,0.0
+Sheds,3,51,0.0
+Sheds,3,52,0.0
+Sheds,3,53,0.0
+Sheds,3,54,0.0
+Sheds,3,55,0.0
+Sheds,3,56,0.0
+Sheds,3,57,0.0
+Sheds,3,58,0.0
+Sheds,3,59,0.0
+Sheds,3,60,0.0
+Sheds,3,61,0.0
+Sheds,3,62,0.0
+Sheds,3,63,0.0
+Sheds,3,64,0.0
+Sheds,3,65,0.0
+Sheds,3,66,0.0
+Sheds,3,67,0.0
+Sheds,3,68,0.0
+Sheds,3,69,0.0
+Sheds,3,70,0.0
+Sheds,3,71,0.0
+Sheds,3,72,0.0
+Sheds,3,73,0.0
+Sheds,3,74,0.0
+Sheds,3,75,0.0
+Sheds,3,76,0.0
+Sheds,3,77,0.0
+Sheds,3,78,0.0
+Sheds,3,79,0.0
+Sheds,3,80,0.0
+Sheds,3,81,0.0
+Sheds,3,82,0.0
+Sheds,3,83,0.0
+Sheds,3,84,0.0
+Sheds,3,85,0.0
+Sheds,3,86,0.0
+Sheds,4,5,0.0
+Sheds,4,6,0.04712041884816754
+Sheds,4,7,0.0
+Sheds,4,8,0.0
+Sheds,4,9,0.0
+Sheds,4,10,0.0
+Sheds,4,11,0.0
+Sheds,4,12,0.0
+Sheds,4,13,0.0
+Sheds,4,14,0.0
+Sheds,4,15,0.0
+Sheds,4,16,0.0
+Sheds,4,17,0.0
+Sheds,4,18,0.0
+Sheds,4,19,0.0
+Sheds,4,20,0.0
+Sheds,4,21,0.0
+Sheds,4,22,0.0
+Sheds,4,23,0.0
+Sheds,4,24,0.0
+Sheds,4,25,0.0
+Sheds,4,26,0.0
+Sheds,4,27,0.0
+Sheds,4,28,0.0
+Sheds,4,29,0.0
+Sheds,4,30,0.0
+Sheds,4,31,0.0
+Sheds,4,32,0.0
+Sheds,4,33,0.0
+Sheds,4,34,0.0
+Sheds,4,35,0.0
+Sheds,4,36,0.0
+Sheds,4,37,0.0
+Sheds,4,38,0.0
+Sheds,4,39,0.0
+Sheds,4,40,0.0
+Sheds,4,41,0.0
+Sheds,4,42,0.0
+Sheds,4,43,0.0
+Sheds,4,44,0.0
+Sheds,4,45,0.0
+Sheds,4,46,0.0
+Sheds,4,47,0.0
+Sheds,4,48,0.0
+Sheds,4,49,0.0
+Sheds,4,50,0.0
+Sheds,4,51,0.0
+Sheds,4,52,0.0
+Sheds,4,53,0.0
+Sheds,4,54,0.0
+Sheds,4,55,0.0
+Sheds,4,56,0.0
+Sheds,4,57,0.06382978723404255
+Sheds,4,58,0.04712041884816754
+Sheds,4,59,0.0
+Sheds,4,60,0.0
+Sheds,4,61,0.1111111111111111
+Sheds,4,62,0.0
+Sheds,4,63,0.0
+Sheds,4,64,0.0
+Sheds,4,65,0.0
+Sheds,4,66,0.0
+Sheds,4,67,0.0
+Sheds,4,68,0.0
+Sheds,4,69,0.0
+Sheds,4,70,0.0
+Sheds,4,71,0.0
+Sheds,4,72,0.0
+Sheds,4,73,0.0
+Sheds,4,74,0.0
+Sheds,4,75,0.0
+Sheds,4,76,0.0
+Sheds,4,77,0.0
+Sheds,4,78,0.0
+Sheds,4,79,0.0
+Sheds,4,80,0.0
+Sheds,4,81,0.0
+Sheds,4,82,0.0
+Sheds,4,83,0.0
+Sheds,4,84,0.0
+Sheds,4,85,0.0
+Sheds,4,86,0.015228426395939087
+Sheds,5,6,0.0
+Sheds,5,7,0.0
+Sheds,5,8,0.0
+Sheds,5,9,0.0
+Sheds,5,10,0.0
+Sheds,5,11,0.0
+Sheds,5,12,0.005025125628140704
+Sheds,5,13,0.0
+Sheds,5,14,0.0
+Sheds,5,15,0.0
+Sheds,5,16,0.0
+Sheds,5,17,0.041666666666666664
+Sheds,5,18,0.0
+Sheds,5,19,0.0
+Sheds,5,20,0.0
+Sheds,5,21,0.0
+Sheds,5,22,0.0
+Sheds,5,23,0.0
+Sheds,5,24,0.0
+Sheds,5,25,0.0
+Sheds,5,26,0.0
+Sheds,5,27,0.0
+Sheds,5,28,0.0
+Sheds,5,29,0.0
+Sheds,5,30,0.0
+Sheds,5,31,0.0
+Sheds,5,32,0.0
+Sheds,5,33,0.0
+Sheds,5,34,0.0
+Sheds,5,35,0.0
+Sheds,5,36,0.0
+Sheds,5,37,0.0
+Sheds,5,38,0.0
+Sheds,5,39,0.0
+Sheds,5,40,0.0
+Sheds,5,41,0.0
+Sheds,5,42,0.0
+Sheds,5,43,0.0
+Sheds,5,44,0.0
+Sheds,5,45,0.0
+Sheds,5,46,0.0
+Sheds,5,47,0.0
+Sheds,5,48,0.0
+Sheds,5,49,0.0
+Sheds,5,50,0.0
+Sheds,5,51,0.0
+Sheds,5,52,0.0
+Sheds,5,53,0.0
+Sheds,5,54,0.0
+Sheds,5,55,0.0
+Sheds,5,56,0.02040816326530612
+Sheds,5,57,0.0
+Sheds,5,58,0.0
+Sheds,5,59,0.0
+Sheds,5,60,0.0
+Sheds,5,61,0.0
+Sheds,5,62,0.0
+Sheds,5,63,0.0
+Sheds,5,64,0.0
+Sheds,5,65,0.0
+Sheds,5,66,0.0
+Sheds,5,67,0.0
+Sheds,5,68,0.0
+Sheds,5,69,0.0
+Sheds,5,70,0.0
+Sheds,5,71,0.0
+Sheds,5,72,0.0
+Sheds,5,73,0.0
+Sheds,5,74,0.0
+Sheds,5,75,0.0
+Sheds,5,76,0.0
+Sheds,5,77,0.0
+Sheds,5,78,0.005025125628140704
+Sheds,5,79,0.015228426395939087
+Sheds,5,80,0.0
+Sheds,5,81,0.0
+Sheds,5,82,0.0
+Sheds,5,83,0.0
+Sheds,5,84,0.0
+Sheds,5,85,0.0
+Sheds,5,86,0.0
+Sheds,6,7,0.0
+Sheds,6,8,0.03626943005181347
+Sheds,6,9,0.0
+Sheds,6,10,0.0
+Sheds,6,11,0.0
+Sheds,6,12,0.0
+Sheds,6,13,0.0
+Sheds,6,14,0.0
+Sheds,6,15,0.0
+Sheds,6,16,0.0
+Sheds,6,17,0.0
+Sheds,6,18,0.0
+Sheds,6,19,0.0
+Sheds,6,20,0.0
+Sheds,6,21,0.0
+Sheds,6,22,0.0
+Sheds,6,23,0.0
+Sheds,6,24,0.0
+Sheds,6,25,0.0
+Sheds,6,26,0.0
+Sheds,6,27,0.0
+Sheds,6,28,0.0
+Sheds,6,29,0.0
+Sheds,6,30,0.0
+Sheds,6,31,0.0
+Sheds,6,32,0.0
+Sheds,6,33,0.0
+Sheds,6,34,0.0
+Sheds,6,35,0.0
+Sheds,6,36,0.0
+Sheds,6,37,0.0
+Sheds,6,38,0.0
+Sheds,6,39,0.0
+Sheds,6,40,0.0
+Sheds,6,41,0.0
+Sheds,6,42,0.0
+Sheds,6,43,0.0
+Sheds,6,44,0.0
+Sheds,6,45,0.0
+Sheds,6,46,0.0
+Sheds,6,47,0.0
+Sheds,6,48,0.0
+Sheds,6,49,0.0
+Sheds,6,50,0.0
+Sheds,6,51,0.0
+Sheds,6,52,0.0
+Sheds,6,53,0.0
+Sheds,6,54,0.0
+Sheds,6,55,0.0
+Sheds,6,56,0.0
+Sheds,6,57,0.0
+Sheds,6,58,0.0
+Sheds,6,59,0.0
+Sheds,6,60,0.0
+Sheds,6,61,0.0
+Sheds,6,62,0.0
+Sheds,6,63,0.0
+Sheds,6,64,0.0
+Sheds,6,65,0.0
+Sheds,6,66,0.0
+Sheds,6,67,0.0
+Sheds,6,68,0.0
+Sheds,6,69,0.0
+Sheds,6,70,0.0
+Sheds,6,71,0.0
+Sheds,6,72,0.0
+Sheds,6,73,0.0
+Sheds,6,74,0.0
+Sheds,6,75,0.0
+Sheds,6,76,0.0
+Sheds,6,77,0.0
+Sheds,6,78,0.0
+Sheds,6,79,0.0
+Sheds,6,80,0.0
+Sheds,6,81,0.0
+Sheds,6,82,0.0
+Sheds,6,83,0.010101010101010102
+Sheds,6,84,0.0
+Sheds,6,85,0.0
+Sheds,6,86,0.1111111111111111
+Sheds,7,8,0.0
+Sheds,7,9,0.0
+Sheds,7,10,0.0
+Sheds,7,11,0.0
+Sheds,7,12,0.0
+Sheds,7,13,0.0
+Sheds,7,14,0.0
+Sheds,7,15,0.0
+Sheds,7,16,0.0
+Sheds,7,17,0.0
+Sheds,7,18,0.0
+Sheds,7,19,0.0
+Sheds,7,20,0.0
+Sheds,7,21,0.0
+Sheds,7,22,0.0
+Sheds,7,23,0.0
+Sheds,7,24,0.0
+Sheds,7,25,0.0
+Sheds,7,26,0.0
+Sheds,7,27,0.0
+Sheds,7,28,0.0
+Sheds,7,29,0.0
+Sheds,7,30,0.0
+Sheds,7,31,0.0
+Sheds,7,32,0.0
+Sheds,7,33,0.0
+Sheds,7,34,0.0
+Sheds,7,35,0.0
+Sheds,7,36,0.0
+Sheds,7,37,0.0
+Sheds,7,38,0.0
+Sheds,7,39,0.0
+Sheds,7,40,0.0
+Sheds,7,41,0.0
+Sheds,7,42,0.0
+Sheds,7,43,0.0
+Sheds,7,44,0.0
+Sheds,7,45,0.0
+Sheds,7,46,0.0
+Sheds,7,47,0.0
+Sheds,7,48,0.0
+Sheds,7,49,0.0
+Sheds,7,50,0.0
+Sheds,7,51,0.0
+Sheds,7,52,0.0
+Sheds,7,53,0.0
+Sheds,7,54,0.0
+Sheds,7,55,0.0
+Sheds,7,56,0.0
+Sheds,7,57,0.0
+Sheds,7,58,0.0
+Sheds,7,59,0.0
+Sheds,7,60,0.0
+Sheds,7,61,0.0
+Sheds,7,62,0.0
+Sheds,7,63,0.0
+Sheds,7,64,0.0
+Sheds,7,65,0.0
+Sheds,7,66,0.0
+Sheds,7,67,0.0
+Sheds,7,68,0.0
+Sheds,7,69,0.0
+Sheds,7,70,0.0
+Sheds,7,71,0.0
+Sheds,7,72,0.0
+Sheds,7,73,0.0
+Sheds,7,74,0.0
+Sheds,7,75,0.0
+Sheds,7,76,0.0
+Sheds,7,77,0.0
+Sheds,7,78,0.0
+Sheds,7,79,0.0
+Sheds,7,80,0.0
+Sheds,7,81,0.0
+Sheds,7,82,0.0
+Sheds,7,83,0.0
+Sheds,7,84,0.0
+Sheds,7,85,0.0
+Sheds,7,86,0.0
+Sheds,8,9,0.0
+Sheds,8,10,0.0
+Sheds,8,11,0.0
+Sheds,8,12,0.0
+Sheds,8,13,0.0
+Sheds,8,14,0.0
+Sheds,8,15,0.0
+Sheds,8,16,0.0
+Sheds,8,17,0.0
+Sheds,8,18,0.0
+Sheds,8,19,0.0
+Sheds,8,20,0.0
+Sheds,8,21,0.0
+Sheds,8,22,0.0
+Sheds,8,23,0.0
+Sheds,8,24,0.0
+Sheds,8,25,0.0
+Sheds,8,26,0.0
+Sheds,8,27,0.0
+Sheds,8,28,0.0
+Sheds,8,29,0.0
+Sheds,8,30,0.0
+Sheds,8,31,0.0
+Sheds,8,32,0.0
+Sheds,8,33,0.0
+Sheds,8,34,0.0
+Sheds,8,35,0.0
+Sheds,8,36,0.0
+Sheds,8,37,0.0
+Sheds,8,38,0.0
+Sheds,8,39,0.0
+Sheds,8,40,0.0
+Sheds,8,41,0.0
+Sheds,8,42,0.0
+Sheds,8,43,0.0
+Sheds,8,44,0.0
+Sheds,8,45,0.0
+Sheds,8,46,0.0
+Sheds,8,47,0.0
+Sheds,8,48,0.005025125628140704
+Sheds,8,49,0.0
+Sheds,8,50,0.0
+Sheds,8,51,0.0
+Sheds,8,52,0.0
+Sheds,8,53,0.0
+Sheds,8,54,0.0
+Sheds,8,55,0.0
+Sheds,8,56,0.0
+Sheds,8,57,0.0
+Sheds,8,58,0.0
+Sheds,8,59,0.0
+Sheds,8,60,0.0
+Sheds,8,61,0.0
+Sheds,8,62,0.041666666666666664
+Sheds,8,63,0.0
+Sheds,8,64,0.0
+Sheds,8,65,0.0
+Sheds,8,66,0.0
+Sheds,8,67,0.0
+Sheds,8,68,0.0
+Sheds,8,69,0.0
+Sheds,8,70,0.0
+Sheds,8,71,0.0
+Sheds,8,72,0.0
+Sheds,8,73,0.0
+Sheds,8,74,0.0
+Sheds,8,75,0.0
+Sheds,8,76,0.0
+Sheds,8,77,0.0
+Sheds,8,78,0.0
+Sheds,8,79,0.0
+Sheds,8,80,0.0
+Sheds,8,81,0.0
+Sheds,8,82,0.0
+Sheds,8,83,0.0
+Sheds,8,84,0.0
+Sheds,8,85,0.0
+Sheds,8,86,0.010101010101010102
+Sheds,9,10,0.0
+Sheds,9,11,0.0
+Sheds,9,12,0.0
+Sheds,9,13,0.0
+Sheds,9,14,0.2345679012345679
+Sheds,9,15,0.0
+Sheds,9,16,0.0
+Sheds,9,17,0.0
+Sheds,9,18,0.0
+Sheds,9,19,0.0
+Sheds,9,20,0.0
+Sheds,9,21,0.0
+Sheds,9,22,0.0
+Sheds,9,23,0.0
+Sheds,9,24,0.0
+Sheds,9,25,0.005025125628140704
+Sheds,9,26,0.010101010101010102
+Sheds,9,27,0.0
+Sheds,9,28,0.0
+Sheds,9,29,0.0
+Sheds,9,30,0.0
+Sheds,9,31,0.0
+Sheds,9,32,0.0
+Sheds,9,33,0.0
+Sheds,9,34,0.0
+Sheds,9,35,0.0
+Sheds,9,36,0.0
+Sheds,9,37,0.0
+Sheds,9,38,0.0
+Sheds,9,39,0.0
+Sheds,9,40,0.0
+Sheds,9,41,0.0
+Sheds,9,42,0.0
+Sheds,9,43,0.0
+Sheds,9,44,0.0
+Sheds,9,45,0.0
+Sheds,9,46,0.0
+Sheds,9,47,0.0
+Sheds,9,48,0.0
+Sheds,9,49,0.0
+Sheds,9,50,0.0
+Sheds,9,51,0.0
+Sheds,9,52,0.02564102564102564
+Sheds,9,53,0.0
+Sheds,9,54,0.0
+Sheds,9,55,0.0
+Sheds,9,56,0.0
+Sheds,9,57,0.0
+Sheds,9,58,0.0
+Sheds,9,59,0.0
+Sheds,9,60,0.0
+Sheds,9,61,0.0
+Sheds,9,62,0.0
+Sheds,9,63,0.0
+Sheds,9,64,0.0
+Sheds,9,65,0.0
+Sheds,9,66,0.0
+Sheds,9,67,0.0
+Sheds,9,68,0.0
+Sheds,9,69,0.0
+Sheds,9,70,0.0
+Sheds,9,71,0.0
+Sheds,9,72,0.0
+Sheds,9,73,0.0
+Sheds,9,74,0.0
+Sheds,9,75,0.0
+Sheds,9,76,0.0
+Sheds,9,77,0.0
+Sheds,9,78,0.015228426395939087
+Sheds,9,79,0.0
+Sheds,9,80,0.0
+Sheds,9,81,0.0
+Sheds,9,82,0.0
+Sheds,9,83,0.0
+Sheds,9,84,0.010101010101010102
+Sheds,9,85,0.0
+Sheds,9,86,0.0
+Sheds,10,11,0.14285714285714285
+Sheds,10,12,0.0
+Sheds,10,13,0.0
+Sheds,10,14,0.0
+Sheds,10,15,0.0
+Sheds,10,16,0.0
+Sheds,10,17,0.0
+Sheds,10,18,0.0
+Sheds,10,19,0.010101010101010102
+Sheds,10,20,0.0
+Sheds,10,21,0.0
+Sheds,10,22,0.0
+Sheds,10,23,0.0
+Sheds,10,24,0.0
+Sheds,10,25,0.0
+Sheds,10,26,0.0
+Sheds,10,27,0.0
+Sheds,10,28,0.0
+Sheds,10,29,0.0
+Sheds,10,30,0.0
+Sheds,10,31,0.03626943005181347
+Sheds,10,32,0.03626943005181347
+Sheds,10,33,0.03626943005181347
+Sheds,10,34,0.03626943005181347
+Sheds,10,35,0.03626943005181347
+Sheds,10,36,0.03626943005181347
+Sheds,10,37,0.03626943005181347
+Sheds,10,38,0.03626943005181347
+Sheds,10,39,0.03626943005181347
+Sheds,10,40,0.03626943005181347
+Sheds,10,41,0.03626943005181347
+Sheds,10,42,0.03626943005181347
+Sheds,10,43,0.03626943005181347
+Sheds,10,44,0.03626943005181347
+Sheds,10,45,0.03626943005181347
+Sheds,10,46,0.03626943005181347
+Sheds,10,47,0.0
+Sheds,10,48,0.0
+Sheds,10,49,0.0
+Sheds,10,50,0.0
+Sheds,10,51,0.0
+Sheds,10,52,0.0
+Sheds,10,53,0.0
+Sheds,10,54,0.0
+Sheds,10,55,0.0
+Sheds,10,56,0.0
+Sheds,10,57,0.0
+Sheds,10,58,0.0
+Sheds,10,59,0.0
+Sheds,10,60,0.0
+Sheds,10,61,0.0
+Sheds,10,62,0.0
+Sheds,10,63,0.0
+Sheds,10,64,0.0
+Sheds,10,65,0.0
+Sheds,10,66,0.0
+Sheds,10,67,0.0
+Sheds,10,68,0.0
+Sheds,10,69,0.0
+Sheds,10,70,0.0
+Sheds,10,71,0.0
+Sheds,10,72,0.0
+Sheds,10,73,0.0
+Sheds,10,74,0.0
+Sheds,10,75,0.0
+Sheds,10,76,0.0
+Sheds,10,77,0.0
+Sheds,10,78,0.0
+Sheds,10,79,0.0
+Sheds,10,80,0.0
+Sheds,10,81,0.0
+Sheds,10,82,0.0
+Sheds,10,83,0.0
+Sheds,10,84,0.0
+Sheds,10,85,0.0
+Sheds,10,86,0.0
+Sheds,11,12,0.0
+Sheds,11,13,0.0
+Sheds,11,14,0.0
+Sheds,11,15,0.0
+Sheds,11,16,0.0
+Sheds,11,17,0.0
+Sheds,11,18,0.0
+Sheds,11,19,0.010101010101010102
+Sheds,11,20,0.0
+Sheds,11,21,0.0
+Sheds,11,22,0.0
+Sheds,11,23,0.0
+Sheds,11,24,0.0
+Sheds,11,25,0.0
+Sheds,11,26,0.0
+Sheds,11,27,0.0
+Sheds,11,28,0.0
+Sheds,11,29,0.0
+Sheds,11,30,0.0
+Sheds,11,31,0.20481927710843373
+Sheds,11,32,0.20481927710843373
+Sheds,11,33,0.20481927710843373
+Sheds,11,34,0.20481927710843373
+Sheds,11,35,0.20481927710843373
+Sheds,11,36,0.20481927710843373
+Sheds,11,37,0.20481927710843373
+Sheds,11,38,0.20481927710843373
+Sheds,11,39,0.20481927710843373
+Sheds,11,40,0.20481927710843373
+Sheds,11,41,0.20481927710843373
+Sheds,11,42,0.20481927710843373
+Sheds,11,43,0.20481927710843373
+Sheds,11,44,0.20481927710843373
+Sheds,11,45,0.20481927710843373
+Sheds,11,46,0.20481927710843373
+Sheds,11,47,0.0
+Sheds,11,48,0.0
+Sheds,11,49,0.0
+Sheds,11,50,0.0
+Sheds,11,51,0.0
+Sheds,11,52,0.0
+Sheds,11,53,0.0
+Sheds,11,54,0.0
+Sheds,11,55,0.0
+Sheds,11,56,0.0
+Sheds,11,57,0.0
+Sheds,11,58,0.0
+Sheds,11,59,0.0
+Sheds,11,60,0.0
+Sheds,11,61,0.0
+Sheds,11,62,0.0
+Sheds,11,63,0.0
+Sheds,11,64,0.0
+Sheds,11,65,0.0
+Sheds,11,66,0.0
+Sheds,11,67,0.0
+Sheds,11,68,0.0
+Sheds,11,69,0.0
+Sheds,11,70,0.0
+Sheds,11,71,0.0
+Sheds,11,72,0.0
+Sheds,11,73,0.0
+Sheds,11,74,0.0
+Sheds,11,75,0.0
+Sheds,11,76,0.0
+Sheds,11,77,0.0
+Sheds,11,78,0.0
+Sheds,11,79,0.0
+Sheds,11,80,0.0
+Sheds,11,81,0.0
+Sheds,11,82,0.0
+Sheds,11,83,0.0
+Sheds,11,84,0.0
+Sheds,11,85,0.0
+Sheds,11,86,0.0
+Sheds,12,13,0.005025125628140704
+Sheds,12,14,0.0
+Sheds,12,15,0.0
+Sheds,12,16,0.0
+Sheds,12,17,0.041666666666666664
+Sheds,12,18,0.0
+Sheds,12,19,0.0
+Sheds,12,20,0.0
+Sheds,12,21,0.0
+Sheds,12,22,0.0
+Sheds,12,23,0.0
+Sheds,12,24,0.0
+Sheds,12,25,0.0
+Sheds,12,26,0.0
+Sheds,12,27,0.0
+Sheds,12,28,0.0
+Sheds,12,29,0.0
+Sheds,12,30,0.0
+Sheds,12,31,0.0
+Sheds,12,32,0.0
+Sheds,12,33,0.0
+Sheds,12,34,0.0
+Sheds,12,35,0.0
+Sheds,12,36,0.0
+Sheds,12,37,0.0
+Sheds,12,38,0.0
+Sheds,12,39,0.0
+Sheds,12,40,0.0
+Sheds,12,41,0.0
+Sheds,12,42,0.0
+Sheds,12,43,0.0
+Sheds,12,44,0.0
+Sheds,12,45,0.0
+Sheds,12,46,0.0
+Sheds,12,47,0.0
+Sheds,12,48,0.0
+Sheds,12,49,0.07526881720430108
+Sheds,12,50,0.0
+Sheds,12,51,0.04712041884816754
+Sheds,12,52,0.0
+Sheds,12,53,0.041666666666666664
+Sheds,12,54,0.0
+Sheds,12,55,0.0
+Sheds,12,56,0.0
+Sheds,12,57,0.0
+Sheds,12,58,0.0
+Sheds,12,59,0.0
+Sheds,12,60,0.0
+Sheds,12,61,0.0
+Sheds,12,62,0.0
+Sheds,12,63,0.0
+Sheds,12,64,0.0
+Sheds,12,65,0.0
+Sheds,12,66,0.0
+Sheds,12,67,0.0
+Sheds,12,68,0.0
+Sheds,12,69,0.0
+Sheds,12,70,0.0
+Sheds,12,71,0.0
+Sheds,12,72,0.0
+Sheds,12,73,0.0
+Sheds,12,74,0.0
+Sheds,12,75,0.0
+Sheds,12,76,0.0
+Sheds,12,77,0.0
+Sheds,12,78,0.0
+Sheds,12,79,0.06951871657754011
+Sheds,12,80,0.0
+Sheds,12,81,0.0
+Sheds,12,82,0.0
+Sheds,12,83,0.0
+Sheds,12,84,0.0
+Sheds,12,85,0.0
+Sheds,12,86,0.0
+Sheds,13,14,0.0
+Sheds,13,15,0.0
+Sheds,13,16,0.0
+Sheds,13,17,0.0
+Sheds,13,18,0.0
+Sheds,13,19,0.0
+Sheds,13,20,0.0
+Sheds,13,21,0.0
+Sheds,13,22,0.0
+Sheds,13,23,0.0
+Sheds,13,24,0.0
+Sheds,13,25,0.0
+Sheds,13,26,0.0
+Sheds,13,27,0.0
+Sheds,13,28,0.0
+Sheds,13,29,0.0
+Sheds,13,30,0.0
+Sheds,13,31,0.0
+Sheds,13,32,0.0
+Sheds,13,33,0.0
+Sheds,13,34,0.0
+Sheds,13,35,0.0
+Sheds,13,36,0.0
+Sheds,13,37,0.0
+Sheds,13,38,0.0
+Sheds,13,39,0.0
+Sheds,13,40,0.0
+Sheds,13,41,0.0
+Sheds,13,42,0.0
+Sheds,13,43,0.0
+Sheds,13,44,0.0
+Sheds,13,45,0.0
+Sheds,13,46,0.0
+Sheds,13,47,0.0
+Sheds,13,48,0.0
+Sheds,13,49,0.0
+Sheds,13,50,0.0
+Sheds,13,51,0.0
+Sheds,13,52,0.0
+Sheds,13,53,0.0
+Sheds,13,54,0.0
+Sheds,13,55,0.0
+Sheds,13,56,0.0
+Sheds,13,57,0.0
+Sheds,13,58,0.0
+Sheds,13,59,0.0
+Sheds,13,60,0.0
+Sheds,13,61,0.0
+Sheds,13,62,0.0
+Sheds,13,63,0.0
+Sheds,13,64,0.0
+Sheds,13,65,0.0
+Sheds,13,66,0.0
+Sheds,13,67,0.0
+Sheds,13,68,0.0
+Sheds,13,69,0.0
+Sheds,13,70,0.0
+Sheds,13,71,0.0
+Sheds,13,72,0.0
+Sheds,13,73,0.0
+Sheds,13,74,0.0
+Sheds,13,75,0.0
+Sheds,13,76,0.0
+Sheds,13,77,0.0
+Sheds,13,78,0.005025125628140704
+Sheds,13,79,0.0
+Sheds,13,80,0.0
+Sheds,13,81,0.0
+Sheds,13,82,0.0
+Sheds,13,83,0.0
+Sheds,13,84,0.0
+Sheds,13,85,0.03626943005181347
+Sheds,13,86,0.0
+Sheds,14,15,0.0
+Sheds,14,16,0.0
+Sheds,14,17,0.0
+Sheds,14,18,0.0
+Sheds,14,19,0.0
+Sheds,14,20,0.0
+Sheds,14,21,0.0
+Sheds,14,22,0.0
+Sheds,14,23,0.0
+Sheds,14,24,0.0
+Sheds,14,25,0.0
+Sheds,14,26,0.015228426395939087
+Sheds,14,27,0.005025125628140704
+Sheds,14,28,0.0
+Sheds,14,29,0.0
+Sheds,14,30,0.0
+Sheds,14,31,0.0
+Sheds,14,32,0.0
+Sheds,14,33,0.0
+Sheds,14,34,0.0
+Sheds,14,35,0.0
+Sheds,14,36,0.0
+Sheds,14,37,0.0
+Sheds,14,38,0.0
+Sheds,14,39,0.0
+Sheds,14,40,0.0
+Sheds,14,41,0.0
+Sheds,14,42,0.0
+Sheds,14,43,0.0
+Sheds,14,44,0.0
+Sheds,14,45,0.0
+Sheds,14,46,0.0
+Sheds,14,47,0.0
+Sheds,14,48,0.0
+Sheds,14,49,0.0
+Sheds,14,50,0.0
+Sheds,14,51,0.0
+Sheds,14,52,0.02564102564102564
+Sheds,14,53,0.0
+Sheds,14,54,0.0
+Sheds,14,55,0.0
+Sheds,14,56,0.0
+Sheds,14,57,0.0
+Sheds,14,58,0.0
+Sheds,14,59,0.0
+Sheds,14,60,0.0
+Sheds,14,61,0.0
+Sheds,14,62,0.0
+Sheds,14,63,0.0
+Sheds,14,64,0.0
+Sheds,14,65,0.0
+Sheds,14,66,0.0
+Sheds,14,67,0.0
+Sheds,14,68,0.0
+Sheds,14,69,0.0
+Sheds,14,70,0.0
+Sheds,14,71,0.0
+Sheds,14,72,0.0
+Sheds,14,73,0.0
+Sheds,14,74,0.0
+Sheds,14,75,0.0
+Sheds,14,76,0.0
+Sheds,14,77,0.0
+Sheds,14,78,0.015228426395939087
+Sheds,14,79,0.0
+Sheds,14,80,0.0
+Sheds,14,81,0.0
+Sheds,14,82,0.0
+Sheds,14,83,0.0
+Sheds,14,84,0.0
+Sheds,14,85,0.0
+Sheds,14,86,0.0
+Sheds,15,16,0.06382978723404255
+Sheds,15,17,0.0
+Sheds,15,18,0.005025125628140704
+Sheds,15,19,0.0
+Sheds,15,20,0.03626943005181347
+Sheds,15,21,0.0
+Sheds,15,22,0.0
+Sheds,15,23,0.0
+Sheds,15,24,0.0
+Sheds,15,25,0.0
+Sheds,15,26,0.0
+Sheds,15,27,0.06382978723404255
+Sheds,15,28,0.0
+Sheds,15,29,0.05263157894736842
+Sheds,15,30,0.005025125628140704
+Sheds,15,31,0.0
+Sheds,15,32,0.0
+Sheds,15,33,0.0
+Sheds,15,34,0.0
+Sheds,15,35,0.0
+Sheds,15,36,0.0
+Sheds,15,37,0.0
+Sheds,15,38,0.0
+Sheds,15,39,0.0
+Sheds,15,40,0.0
+Sheds,15,41,0.0
+Sheds,15,42,0.0
+Sheds,15,43,0.0
+Sheds,15,44,0.0
+Sheds,15,45,0.0
+Sheds,15,46,0.0
+Sheds,15,47,0.0
+Sheds,15,48,0.0
+Sheds,15,49,0.0
+Sheds,15,50,0.0
+Sheds,15,51,0.0
+Sheds,15,52,0.0
+Sheds,15,53,0.0
+Sheds,15,54,0.0
+Sheds,15,55,0.0
+Sheds,15,56,0.0
+Sheds,15,57,0.0
+Sheds,15,58,0.0
+Sheds,15,59,0.0
+Sheds,15,60,0.0
+Sheds,15,61,0.0
+Sheds,15,62,0.0
+Sheds,15,63,0.0
+Sheds,15,64,0.010101010101010102
+Sheds,15,65,0.0
+Sheds,15,66,0.0
+Sheds,15,67,0.0
+Sheds,15,68,0.0
+Sheds,15,69,0.0
+Sheds,15,70,0.0
+Sheds,15,71,0.0
+Sheds,15,72,0.0582010582010582
+Sheds,15,73,0.0
+Sheds,15,74,0.0
+Sheds,15,75,0.0
+Sheds,15,76,0.0
+Sheds,15,77,0.0
+Sheds,15,78,0.0
+Sheds,15,79,0.0
+Sheds,15,80,0.0
+Sheds,15,81,0.0
+Sheds,15,82,0.05263157894736842
+Sheds,15,83,0.02564102564102564
+Sheds,15,84,0.0
+Sheds,15,85,0.0
+Sheds,15,86,0.0
+Sheds,16,17,0.0
+Sheds,16,18,0.08695652173913043
+Sheds,16,19,0.0
+Sheds,16,20,0.015228426395939087
+Sheds,16,21,0.0
+Sheds,16,22,0.005025125628140704
+Sheds,16,23,0.0
+Sheds,16,24,0.0
+Sheds,16,25,0.005025125628140704
+Sheds,16,26,0.005025125628140704
+Sheds,16,27,0.02564102564102564
+Sheds,16,28,0.0
+Sheds,16,29,0.010101010101010102
+Sheds,16,30,0.03626943005181347
+Sheds,16,31,0.0
+Sheds,16,32,0.0
+Sheds,16,33,0.0
+Sheds,16,34,0.0
+Sheds,16,35,0.0
+Sheds,16,36,0.0
+Sheds,16,37,0.0
+Sheds,16,38,0.0
+Sheds,16,39,0.0
+Sheds,16,40,0.0
+Sheds,16,41,0.0
+Sheds,16,42,0.0
+Sheds,16,43,0.0
+Sheds,16,44,0.0
+Sheds,16,45,0.0
+Sheds,16,46,0.0
+Sheds,16,47,0.06951871657754011
+Sheds,16,48,0.0
+Sheds,16,49,0.010101010101010102
+Sheds,16,50,0.0
+Sheds,16,51,0.0
+Sheds,16,52,0.005025125628140704
+Sheds,16,53,0.0
+Sheds,16,54,0.0
+Sheds,16,55,0.04712041884816754
+Sheds,16,56,0.015228426395939087
+Sheds,16,57,0.0
+Sheds,16,58,0.0
+Sheds,16,59,0.02040816326530612
+Sheds,16,60,0.08695652173913043
+Sheds,16,61,0.0
+Sheds,16,62,0.0
+Sheds,16,63,0.0
+Sheds,16,64,0.0
+Sheds,16,65,0.0
+Sheds,16,66,0.0
+Sheds,16,67,0.0
+Sheds,16,68,0.0
+Sheds,16,69,0.0
+Sheds,16,70,0.0
+Sheds,16,71,0.0
+Sheds,16,72,0.0989010989010989
+Sheds,16,73,0.0
+Sheds,16,74,0.0
+Sheds,16,75,0.0
+Sheds,16,76,0.0
+Sheds,16,77,0.0
+Sheds,16,78,0.0
+Sheds,16,79,0.0
+Sheds,16,80,0.28205128205128205
+Sheds,16,81,0.11731843575418995
+Sheds,16,82,0.04712041884816754
+Sheds,16,83,0.005025125628140704
+Sheds,16,84,0.0
+Sheds,16,85,0.0
+Sheds,16,86,0.0
+Sheds,17,18,0.0
+Sheds,17,19,0.0
+Sheds,17,20,0.0
+Sheds,17,21,0.0
+Sheds,17,22,0.0
+Sheds,17,23,0.0
+Sheds,17,24,0.0
+Sheds,17,25,0.0
+Sheds,17,26,0.005025125628140704
+Sheds,17,27,0.0
+Sheds,17,28,0.0
+Sheds,17,29,0.0
+Sheds,17,30,0.0
+Sheds,17,31,0.0
+Sheds,17,32,0.0
+Sheds,17,33,0.0
+Sheds,17,34,0.0
+Sheds,17,35,0.0
+Sheds,17,36,0.0
+Sheds,17,37,0.0
+Sheds,17,38,0.0
+Sheds,17,39,0.0
+Sheds,17,40,0.0
+Sheds,17,41,0.0
+Sheds,17,42,0.0
+Sheds,17,43,0.0
+Sheds,17,44,0.0
+Sheds,17,45,0.0
+Sheds,17,46,0.0
+Sheds,17,47,0.0
+Sheds,17,48,0.0
+Sheds,17,49,0.005025125628140704
+Sheds,17,50,0.0
+Sheds,17,51,0.0
+Sheds,17,52,0.0
+Sheds,17,53,0.030927835051546393
+Sheds,17,54,0.010101010101010102
+Sheds,17,55,0.0
+Sheds,17,56,0.04712041884816754
+Sheds,17,57,0.0
+Sheds,17,58,0.0
+Sheds,17,59,0.0
+Sheds,17,60,0.0
+Sheds,17,61,0.0
+Sheds,17,62,0.0
+Sheds,17,63,0.0
+Sheds,17,64,0.0
+Sheds,17,65,0.0
+Sheds,17,66,0.0
+Sheds,17,67,0.0
+Sheds,17,68,0.0
+Sheds,17,69,0.0
+Sheds,17,70,0.0
+Sheds,17,71,0.0
+Sheds,17,72,0.0
+Sheds,17,73,0.0
+Sheds,17,74,0.0
+Sheds,17,75,0.0
+Sheds,17,76,0.0
+Sheds,17,77,0.0
+Sheds,17,78,0.0
+Sheds,17,79,0.06951871657754011
+Sheds,17,80,0.0
+Sheds,17,81,0.0
+Sheds,17,82,0.0
+Sheds,17,83,0.0
+Sheds,17,84,0.0
+Sheds,17,85,0.0
+Sheds,17,86,0.0
+Sheds,18,19,0.0
+Sheds,18,20,0.0
+Sheds,18,21,0.0
+Sheds,18,22,0.02040816326530612
+Sheds,18,23,0.0
+Sheds,18,24,0.0
+Sheds,18,25,0.0
+Sheds,18,26,0.0
+Sheds,18,27,0.0
+Sheds,18,28,0.0
+Sheds,18,29,0.0
+Sheds,18,30,0.06951871657754011
+Sheds,18,31,0.0
+Sheds,18,32,0.0
+Sheds,18,33,0.0
+Sheds,18,34,0.0
+Sheds,18,35,0.0
+Sheds,18,36,0.0
+Sheds,18,37,0.0
+Sheds,18,38,0.0
+Sheds,18,39,0.0
+Sheds,18,40,0.0
+Sheds,18,41,0.0
+Sheds,18,42,0.0
+Sheds,18,43,0.0
+Sheds,18,44,0.0
+Sheds,18,45,0.0
+Sheds,18,46,0.0
+Sheds,18,47,0.19047619047619047
+Sheds,18,48,0.0
+Sheds,18,49,0.0
+Sheds,18,50,0.06951871657754011
+Sheds,18,51,0.0
+Sheds,18,52,0.02564102564102564
+Sheds,18,53,0.0
+Sheds,18,54,0.0
+Sheds,18,55,0.16279069767441862
+Sheds,18,56,0.030927835051546393
+Sheds,18,57,0.0
+Sheds,18,58,0.0
+Sheds,18,59,0.04712041884816754
+Sheds,18,60,0.15606936416184972
+Sheds,18,61,0.0
+Sheds,18,62,0.0
+Sheds,18,63,0.0
+Sheds,18,64,0.0
+Sheds,18,65,0.0
+Sheds,18,66,0.0
+Sheds,18,67,0.0
+Sheds,18,68,0.0
+Sheds,18,69,0.0
+Sheds,18,70,0.09289617486338798
+Sheds,18,71,0.09289617486338798
+Sheds,18,72,0.02564102564102564
+Sheds,18,73,0.0
+Sheds,18,74,0.0
+Sheds,18,75,0.0
+Sheds,18,76,0.0
+Sheds,18,77,0.0
+Sheds,18,78,0.0
+Sheds,18,79,0.0
+Sheds,18,80,0.21951219512195122
+Sheds,18,81,0.1834319526627219
+Sheds,18,82,0.0
+Sheds,18,83,0.0
+Sheds,18,84,0.0
+Sheds,18,85,0.0
+Sheds,18,86,0.0
+Sheds,19,20,0.0
+Sheds,19,21,0.0
+Sheds,19,22,0.0
+Sheds,19,23,0.0
+Sheds,19,24,0.0
+Sheds,19,25,0.0
+Sheds,19,26,0.0
+Sheds,19,27,0.0
+Sheds,19,28,0.0
+Sheds,19,29,0.0
+Sheds,19,30,0.0
+Sheds,19,31,0.041666666666666664
+Sheds,19,32,0.041666666666666664
+Sheds,19,33,0.041666666666666664
+Sheds,19,34,0.041666666666666664
+Sheds,19,35,0.041666666666666664
+Sheds,19,36,0.041666666666666664
+Sheds,19,37,0.041666666666666664
+Sheds,19,38,0.041666666666666664
+Sheds,19,39,0.041666666666666664
+Sheds,19,40,0.041666666666666664
+Sheds,19,41,0.041666666666666664
+Sheds,19,42,0.041666666666666664
+Sheds,19,43,0.041666666666666664
+Sheds,19,44,0.041666666666666664
+Sheds,19,45,0.041666666666666664
+Sheds,19,46,0.041666666666666664
+Sheds,19,47,0.0
+Sheds,19,48,0.0
+Sheds,19,49,0.0
+Sheds,19,50,0.0
+Sheds,19,51,0.0
+Sheds,19,52,0.0
+Sheds,19,53,0.0
+Sheds,19,54,0.0
+Sheds,19,55,0.0
+Sheds,19,56,0.0
+Sheds,19,57,0.0
+Sheds,19,58,0.0
+Sheds,19,59,0.0
+Sheds,19,60,0.0
+Sheds,19,61,0.0
+Sheds,19,62,0.0
+Sheds,19,63,0.0
+Sheds,19,64,0.0
+Sheds,19,65,0.0
+Sheds,19,66,0.0
+Sheds,19,67,0.0
+Sheds,19,68,0.0
+Sheds,19,69,0.0
+Sheds,19,70,0.0
+Sheds,19,71,0.0
+Sheds,19,72,0.0
+Sheds,19,73,0.0
+Sheds,19,74,0.0
+Sheds,19,75,0.0
+Sheds,19,76,0.0
+Sheds,19,77,0.0
+Sheds,19,78,0.0
+Sheds,19,79,0.0
+Sheds,19,80,0.0
+Sheds,19,81,0.0
+Sheds,19,82,0.0
+Sheds,19,83,0.0
+Sheds,19,84,0.0
+Sheds,19,85,0.0
+Sheds,19,86,0.0
+Sheds,20,21,0.0
+Sheds,20,22,0.0
+Sheds,20,23,0.0
+Sheds,20,24,0.0
+Sheds,20,25,0.0
+Sheds,20,26,0.05263157894736842
+Sheds,20,27,0.08695652173913043
+Sheds,20,28,0.0
+Sheds,20,29,0.010101010101010102
+Sheds,20,30,0.005025125628140704
+Sheds,20,31,0.0
+Sheds,20,32,0.0
+Sheds,20,33,0.0
+Sheds,20,34,0.0
+Sheds,20,35,0.0
+Sheds,20,36,0.0
+Sheds,20,37,0.0
+Sheds,20,38,0.0
+Sheds,20,39,0.0
+Sheds,20,40,0.0
+Sheds,20,41,0.0
+Sheds,20,42,0.0
+Sheds,20,43,0.0
+Sheds,20,44,0.0
+Sheds,20,45,0.0
+Sheds,20,46,0.0
+Sheds,20,47,0.0
+Sheds,20,48,0.0
+Sheds,20,49,0.0
+Sheds,20,50,0.0
+Sheds,20,51,0.0
+Sheds,20,52,0.0
+Sheds,20,53,0.0
+Sheds,20,54,0.0
+Sheds,20,55,0.0
+Sheds,20,56,0.0
+Sheds,20,57,0.0
+Sheds,20,58,0.0
+Sheds,20,59,0.0
+Sheds,20,60,0.0
+Sheds,20,61,0.0
+Sheds,20,62,0.0
+Sheds,20,63,0.0
+Sheds,20,64,0.0
+Sheds,20,65,0.041666666666666664
+Sheds,20,66,0.0
+Sheds,20,67,0.0
+Sheds,20,68,0.0
+Sheds,20,69,0.0
+Sheds,20,70,0.0
+Sheds,20,71,0.0
+Sheds,20,72,0.010101010101010102
+Sheds,20,73,0.0
+Sheds,20,74,0.0
+Sheds,20,75,0.0
+Sheds,20,76,0.0
+Sheds,20,77,0.0
+Sheds,20,78,0.0
+Sheds,20,79,0.0
+Sheds,20,80,0.0
+Sheds,20,81,0.0
+Sheds,20,82,0.0
+Sheds,20,83,0.0
+Sheds,20,84,0.0
+Sheds,20,85,0.0
+Sheds,20,86,0.0
+Sheds,21,22,0.0
+Sheds,21,23,0.005025125628140704
+Sheds,21,24,0.030927835051546393
+Sheds,21,25,0.06382978723404255
+Sheds,21,26,0.0
+Sheds,21,27,0.0
+Sheds,21,28,0.0
+Sheds,21,29,0.0
+Sheds,21,30,0.005025125628140704
+Sheds,21,31,0.0
+Sheds,21,32,0.0
+Sheds,21,33,0.0
+Sheds,21,34,0.0
+Sheds,21,35,0.0
+Sheds,21,36,0.0
+Sheds,21,37,0.0
+Sheds,21,38,0.0
+Sheds,21,39,0.0
+Sheds,21,40,0.0
+Sheds,21,41,0.0
+Sheds,21,42,0.0
+Sheds,21,43,0.0
+Sheds,21,44,0.0
+Sheds,21,45,0.0
+Sheds,21,46,0.0
+Sheds,21,47,0.0
+Sheds,21,48,0.0
+Sheds,21,49,0.0
+Sheds,21,50,0.0
+Sheds,21,51,0.0
+Sheds,21,52,0.0
+Sheds,21,53,0.0
+Sheds,21,54,0.0
+Sheds,21,55,0.0
+Sheds,21,56,0.0
+Sheds,21,57,0.0
+Sheds,21,58,0.0
+Sheds,21,59,0.0
+Sheds,21,60,0.0
+Sheds,21,61,0.0
+Sheds,21,62,0.0
+Sheds,21,63,0.0
+Sheds,21,64,0.0
+Sheds,21,65,0.0
+Sheds,21,66,0.0
+Sheds,21,67,0.005025125628140704
+Sheds,21,68,0.0
+Sheds,21,69,0.0
+Sheds,21,70,0.0
+Sheds,21,71,0.0
+Sheds,21,72,0.0
+Sheds,21,73,0.0
+Sheds,21,74,0.02564102564102564
+Sheds,21,75,0.0
+Sheds,21,76,0.005025125628140704
+Sheds,21,77,0.005025125628140704
+Sheds,21,78,0.010101010101010102
+Sheds,21,79,0.0
+Sheds,21,80,0.0
+Sheds,21,81,0.0
+Sheds,21,82,0.0
+Sheds,21,83,0.0
+Sheds,21,84,0.04712041884816754
+Sheds,21,85,0.0
+Sheds,21,86,0.0
+Sheds,22,23,0.0
+Sheds,22,24,0.0
+Sheds,22,25,0.02564102564102564
+Sheds,22,26,0.03626943005181347
+Sheds,22,27,0.005025125628140704
+Sheds,22,28,0.0
+Sheds,22,29,0.005025125628140704
+Sheds,22,30,0.06382978723404255
+Sheds,22,31,0.0
+Sheds,22,32,0.0
+Sheds,22,33,0.0
+Sheds,22,34,0.0
+Sheds,22,35,0.0
+Sheds,22,36,0.0
+Sheds,22,37,0.0
+Sheds,22,38,0.0
+Sheds,22,39,0.0
+Sheds,22,40,0.0
+Sheds,22,41,0.0
+Sheds,22,42,0.0
+Sheds,22,43,0.0
+Sheds,22,44,0.0
+Sheds,22,45,0.0
+Sheds,22,46,0.0
+Sheds,22,47,0.005025125628140704
+Sheds,22,48,0.0
+Sheds,22,49,0.0
+Sheds,22,50,0.005025125628140704
+Sheds,22,51,0.0
+Sheds,22,52,0.005025125628140704
+Sheds,22,53,0.0
+Sheds,22,54,0.0
+Sheds,22,55,0.0
+Sheds,22,56,0.0
+Sheds,22,57,0.0
+Sheds,22,58,0.0
+Sheds,22,59,0.0
+Sheds,22,60,0.005025125628140704
+Sheds,22,61,0.0
+Sheds,22,62,0.0
+Sheds,22,63,0.0
+Sheds,22,64,0.0
+Sheds,22,65,0.005025125628140704
+Sheds,22,66,0.0
+Sheds,22,67,0.0
+Sheds,22,68,0.0
+Sheds,22,69,0.0
+Sheds,22,70,0.015228426395939087
+Sheds,22,71,0.015228426395939087
+Sheds,22,72,0.06951871657754011
+Sheds,22,73,0.0
+Sheds,22,74,0.0
+Sheds,22,75,0.0
+Sheds,22,76,0.0
+Sheds,22,77,0.0
+Sheds,22,78,0.0
+Sheds,22,79,0.0
+Sheds,22,80,0.02564102564102564
+Sheds,22,81,0.005025125628140704
+Sheds,22,82,0.0
+Sheds,22,83,0.0
+Sheds,22,84,0.005025125628140704
+Sheds,22,85,0.0
+Sheds,22,86,0.0
+Sheds,23,24,0.0
+Sheds,23,25,0.0
+Sheds,23,26,0.0
+Sheds,23,27,0.0
+Sheds,23,28,0.0
+Sheds,23,29,0.0
+Sheds,23,30,0.0
+Sheds,23,31,0.0
+Sheds,23,32,0.0
+Sheds,23,33,0.0
+Sheds,23,34,0.0
+Sheds,23,35,0.0
+Sheds,23,36,0.0
+Sheds,23,37,0.0
+Sheds,23,38,0.0
+Sheds,23,39,0.0
+Sheds,23,40,0.0
+Sheds,23,41,0.0
+Sheds,23,42,0.0
+Sheds,23,43,0.0
+Sheds,23,44,0.0
+Sheds,23,45,0.0
+Sheds,23,46,0.0
+Sheds,23,47,0.0
+Sheds,23,48,0.0
+Sheds,23,49,0.0
+Sheds,23,50,0.0
+Sheds,23,51,0.0
+Sheds,23,52,0.0
+Sheds,23,53,0.0
+Sheds,23,54,0.0
+Sheds,23,55,0.0
+Sheds,23,56,0.0
+Sheds,23,57,0.0
+Sheds,23,58,0.0
+Sheds,23,59,0.0
+Sheds,23,60,0.0
+Sheds,23,61,0.0
+Sheds,23,62,0.0
+Sheds,23,63,0.0
+Sheds,23,64,0.0
+Sheds,23,65,0.0
+Sheds,23,66,0.0
+Sheds,23,67,0.0
+Sheds,23,68,0.0
+Sheds,23,69,0.005025125628140704
+Sheds,23,70,0.0
+Sheds,23,71,0.0
+Sheds,23,72,0.0
+Sheds,23,73,0.02564102564102564
+Sheds,23,74,0.005025125628140704
+Sheds,23,75,0.0
+Sheds,23,76,0.0
+Sheds,23,77,0.0
+Sheds,23,78,0.0
+Sheds,23,79,0.0
+Sheds,23,80,0.0
+Sheds,23,81,0.0
+Sheds,23,82,0.0
+Sheds,23,83,0.010101010101010102
+Sheds,23,84,0.0
+Sheds,23,85,0.0
+Sheds,23,86,0.0
+Sheds,24,25,0.005025125628140704
+Sheds,24,26,0.0
+Sheds,24,27,0.0
+Sheds,24,28,0.005025125628140704
+Sheds,24,29,0.0
+Sheds,24,30,0.0
+Sheds,24,31,0.0
+Sheds,24,32,0.0
+Sheds,24,33,0.0
+Sheds,24,34,0.0
+Sheds,24,35,0.0
+Sheds,24,36,0.0
+Sheds,24,37,0.0
+Sheds,24,38,0.0
+Sheds,24,39,0.0
+Sheds,24,40,0.0
+Sheds,24,41,0.0
+Sheds,24,42,0.0
+Sheds,24,43,0.0
+Sheds,24,44,0.0
+Sheds,24,45,0.0
+Sheds,24,46,0.0
+Sheds,24,47,0.0
+Sheds,24,48,0.0
+Sheds,24,49,0.0
+Sheds,24,50,0.0
+Sheds,24,51,0.0
+Sheds,24,52,0.0
+Sheds,24,53,0.0
+Sheds,24,54,0.0
+Sheds,24,55,0.0
+Sheds,24,56,0.0
+Sheds,24,57,0.0
+Sheds,24,58,0.0
+Sheds,24,59,0.0
+Sheds,24,60,0.0
+Sheds,24,61,0.0
+Sheds,24,62,0.0
+Sheds,24,63,0.0
+Sheds,24,64,0.005025125628140704
+Sheds,24,65,0.0
+Sheds,24,66,0.0
+Sheds,24,67,0.005025125628140704
+Sheds,24,68,0.0
+Sheds,24,69,0.0
+Sheds,24,70,0.0
+Sheds,24,71,0.0
+Sheds,24,72,0.0
+Sheds,24,73,0.0
+Sheds,24,74,0.010101010101010102
+Sheds,24,75,0.015228426395939087
+Sheds,24,76,0.0
+Sheds,24,77,0.0
+Sheds,24,78,0.0
+Sheds,24,79,0.0
+Sheds,24,80,0.0
+Sheds,24,81,0.0
+Sheds,24,82,0.0
+Sheds,24,83,0.0
+Sheds,24,84,0.010101010101010102
+Sheds,24,85,0.0
+Sheds,24,86,0.0
+Sheds,25,26,0.010101010101010102
+Sheds,25,27,0.005025125628140704
+Sheds,25,28,0.0
+Sheds,25,29,0.0
+Sheds,25,30,0.02564102564102564
+Sheds,25,31,0.0
+Sheds,25,32,0.0
+Sheds,25,33,0.0
+Sheds,25,34,0.0
+Sheds,25,35,0.0
+Sheds,25,36,0.0
+Sheds,25,37,0.0
+Sheds,25,38,0.0
+Sheds,25,39,0.0
+Sheds,25,40,0.0
+Sheds,25,41,0.0
+Sheds,25,42,0.0
+Sheds,25,43,0.0
+Sheds,25,44,0.0
+Sheds,25,45,0.0
+Sheds,25,46,0.0
+Sheds,25,47,0.0
+Sheds,25,48,0.0
+Sheds,25,49,0.0
+Sheds,25,50,0.0
+Sheds,25,51,0.0
+Sheds,25,52,0.0
+Sheds,25,53,0.0
+Sheds,25,54,0.0
+Sheds,25,55,0.0
+Sheds,25,56,0.0
+Sheds,25,57,0.0
+Sheds,25,58,0.0
+Sheds,25,59,0.0
+Sheds,25,60,0.0
+Sheds,25,61,0.0
+Sheds,25,62,0.0
+Sheds,25,63,0.0
+Sheds,25,64,0.005025125628140704
+Sheds,25,65,0.0
+Sheds,25,66,0.005025125628140704
+Sheds,25,67,0.02040816326530612
+Sheds,25,68,0.0
+Sheds,25,69,0.0
+Sheds,25,70,0.0
+Sheds,25,71,0.0
+Sheds,25,72,0.010101010101010102
+Sheds,25,73,0.0
+Sheds,25,74,0.015228426395939087
+Sheds,25,75,0.0
+Sheds,25,76,0.02564102564102564
+Sheds,25,77,0.015228426395939087
+Sheds,25,78,0.010101010101010102
+Sheds,25,79,0.0
+Sheds,25,80,0.005025125628140704
+Sheds,25,81,0.0
+Sheds,25,82,0.0
+Sheds,25,83,0.0
+Sheds,25,84,0.08108108108108109
+Sheds,25,85,0.0
+Sheds,25,86,0.0
+Sheds,26,27,0.0582010582010582
+Sheds,26,28,0.0
+Sheds,26,29,0.0
+Sheds,26,30,0.010101010101010102
+Sheds,26,31,0.0
+Sheds,26,32,0.0
+Sheds,26,33,0.0
+Sheds,26,34,0.0
+Sheds,26,35,0.0
+Sheds,26,36,0.0
+Sheds,26,37,0.0
+Sheds,26,38,0.0
+Sheds,26,39,0.0
+Sheds,26,40,0.0
+Sheds,26,41,0.0
+Sheds,26,42,0.0
+Sheds,26,43,0.0
+Sheds,26,44,0.0
+Sheds,26,45,0.0
+Sheds,26,46,0.0
+Sheds,26,47,0.0
+Sheds,26,48,0.0
+Sheds,26,49,0.0
+Sheds,26,50,0.0
+Sheds,26,51,0.0
+Sheds,26,52,0.0
+Sheds,26,53,0.0
+Sheds,26,54,0.0
+Sheds,26,55,0.0
+Sheds,26,56,0.0
+Sheds,26,57,0.0
+Sheds,26,58,0.0
+Sheds,26,59,0.0
+Sheds,26,60,0.0
+Sheds,26,61,0.0
+Sheds,26,62,0.0
+Sheds,26,63,0.015228426395939087
+Sheds,26,64,0.0
+Sheds,26,65,0.03626943005181347
+Sheds,26,66,0.0
+Sheds,26,67,0.0
+Sheds,26,68,0.0
+Sheds,26,69,0.0
+Sheds,26,70,0.0
+Sheds,26,71,0.0
+Sheds,26,72,0.005025125628140704
+Sheds,26,73,0.0
+Sheds,26,74,0.0
+Sheds,26,75,0.0
+Sheds,26,76,0.0
+Sheds,26,77,0.0
+Sheds,26,78,0.010101010101010102
+Sheds,26,79,0.0
+Sheds,26,80,0.0
+Sheds,26,81,0.0
+Sheds,26,82,0.005025125628140704
+Sheds,26,83,0.0
+Sheds,26,84,0.0
+Sheds,26,85,0.0
+Sheds,26,86,0.0
+Sheds,27,28,0.005025125628140704
+Sheds,27,29,0.010101010101010102
+Sheds,27,30,0.015228426395939087
+Sheds,27,31,0.0
+Sheds,27,32,0.0
+Sheds,27,33,0.0
+Sheds,27,34,0.0
+Sheds,27,35,0.0
+Sheds,27,36,0.0
+Sheds,27,37,0.0
+Sheds,27,38,0.0
+Sheds,27,39,0.0
+Sheds,27,40,0.0
+Sheds,27,41,0.0
+Sheds,27,42,0.0
+Sheds,27,43,0.0
+Sheds,27,44,0.0
+Sheds,27,45,0.0
+Sheds,27,46,0.0
+Sheds,27,47,0.0
+Sheds,27,48,0.0
+Sheds,27,49,0.0
+Sheds,27,50,0.0
+Sheds,27,51,0.0
+Sheds,27,52,0.0
+Sheds,27,53,0.0
+Sheds,27,54,0.0
+Sheds,27,55,0.0
+Sheds,27,56,0.0
+Sheds,27,57,0.0
+Sheds,27,58,0.0
+Sheds,27,59,0.0
+Sheds,27,60,0.0
+Sheds,27,61,0.0
+Sheds,27,62,0.0
+Sheds,27,63,0.005025125628140704
+Sheds,27,64,0.02040816326530612
+Sheds,27,65,0.041666666666666664
+Sheds,27,66,0.005025125628140704
+Sheds,27,67,0.0
+Sheds,27,68,0.0
+Sheds,27,69,0.0
+Sheds,27,70,0.0
+Sheds,27,71,0.0
+Sheds,27,72,0.005025125628140704
+Sheds,27,73,0.0
+Sheds,27,74,0.0
+Sheds,27,75,0.0
+Sheds,27,76,0.005025125628140704
+Sheds,27,77,0.005025125628140704
+Sheds,27,78,0.005025125628140704
+Sheds,27,79,0.0
+Sheds,27,80,0.0
+Sheds,27,81,0.0
+Sheds,27,82,0.02564102564102564
+Sheds,27,83,0.0
+Sheds,27,84,0.0
+Sheds,27,85,0.010101010101010102
+Sheds,27,86,0.0
+Sheds,28,29,0.015228426395939087
+Sheds,28,30,0.0
+Sheds,28,31,0.0
+Sheds,28,32,0.0
+Sheds,28,33,0.0
+Sheds,28,34,0.0
+Sheds,28,35,0.0
+Sheds,28,36,0.0
+Sheds,28,37,0.0
+Sheds,28,38,0.0
+Sheds,28,39,0.0
+Sheds,28,40,0.0
+Sheds,28,41,0.0
+Sheds,28,42,0.0
+Sheds,28,43,0.0
+Sheds,28,44,0.0
+Sheds,28,45,0.0
+Sheds,28,46,0.0
+Sheds,28,47,0.0
+Sheds,28,48,0.0
+Sheds,28,49,0.0
+Sheds,28,50,0.0
+Sheds,28,51,0.0
+Sheds,28,52,0.0
+Sheds,28,53,0.0
+Sheds,28,54,0.0
+Sheds,28,55,0.0
+Sheds,28,56,0.0
+Sheds,28,57,0.0
+Sheds,28,58,0.0
+Sheds,28,59,0.0
+Sheds,28,60,0.0
+Sheds,28,61,0.0
+Sheds,28,62,0.0
+Sheds,28,63,0.005025125628140704
+Sheds,28,64,0.04712041884816754
+Sheds,28,65,0.0
+Sheds,28,66,0.005025125628140704
+Sheds,28,67,0.0
+Sheds,28,68,0.005025125628140704
+Sheds,28,69,0.0
+Sheds,28,70,0.0
+Sheds,28,71,0.0
+Sheds,28,72,0.010101010101010102
+Sheds,28,73,0.0
+Sheds,28,74,0.0
+Sheds,28,75,0.010101010101010102
+Sheds,28,76,0.030927835051546393
+Sheds,28,77,0.03626943005181347
+Sheds,28,78,0.005025125628140704
+Sheds,28,79,0.0
+Sheds,28,80,0.0
+Sheds,28,81,0.0
+Sheds,28,82,0.0
+Sheds,28,83,0.0
+Sheds,28,84,0.005025125628140704
+Sheds,28,85,0.0
+Sheds,28,86,0.0
+Sheds,29,30,0.0
+Sheds,29,31,0.0
+Sheds,29,32,0.0
+Sheds,29,33,0.0
+Sheds,29,34,0.0
+Sheds,29,35,0.0
+Sheds,29,36,0.0
+Sheds,29,37,0.0
+Sheds,29,38,0.0
+Sheds,29,39,0.0
+Sheds,29,40,0.0
+Sheds,29,41,0.0
+Sheds,29,42,0.0
+Sheds,29,43,0.0
+Sheds,29,44,0.0
+Sheds,29,45,0.0
+Sheds,29,46,0.0
+Sheds,29,47,0.0
+Sheds,29,48,0.0
+Sheds,29,49,0.0
+Sheds,29,50,0.0
+Sheds,29,51,0.0
+Sheds,29,52,0.0
+Sheds,29,53,0.0
+Sheds,29,54,0.0
+Sheds,29,55,0.0
+Sheds,29,56,0.0
+Sheds,29,57,0.0
+Sheds,29,58,0.0
+Sheds,29,59,0.0
+Sheds,29,60,0.0
+Sheds,29,61,0.0
+Sheds,29,62,0.0
+Sheds,29,63,0.0
+Sheds,29,64,0.08695652173913043
+Sheds,29,65,0.0
+Sheds,29,66,0.030927835051546393
+Sheds,29,67,0.0
+Sheds,29,68,0.005025125628140704
+Sheds,29,69,0.005025125628140704
+Sheds,29,70,0.0
+Sheds,29,71,0.0
+Sheds,29,72,0.02564102564102564
+Sheds,29,73,0.0
+Sheds,29,74,0.0
+Sheds,29,75,0.0
+Sheds,29,76,0.005025125628140704
+Sheds,29,77,0.015228426395939087
+Sheds,29,78,0.0
+Sheds,29,79,0.0
+Sheds,29,80,0.0
+Sheds,29,81,0.0
+Sheds,29,82,0.02564102564102564
+Sheds,29,83,0.0
+Sheds,29,84,0.0
+Sheds,29,85,0.005025125628140704
+Sheds,29,86,0.0
+Sheds,30,31,0.0
+Sheds,30,32,0.0
+Sheds,30,33,0.0
+Sheds,30,34,0.0
+Sheds,30,35,0.0
+Sheds,30,36,0.0
+Sheds,30,37,0.0
+Sheds,30,38,0.0
+Sheds,30,39,0.0
+Sheds,30,40,0.0
+Sheds,30,41,0.0
+Sheds,30,42,0.0
+Sheds,30,43,0.0
+Sheds,30,44,0.0
+Sheds,30,45,0.0
+Sheds,30,46,0.0
+Sheds,30,47,0.015228426395939087
+Sheds,30,48,0.0
+Sheds,30,49,0.0
+Sheds,30,50,0.0
+Sheds,30,51,0.0
+Sheds,30,52,0.0
+Sheds,30,53,0.0
+Sheds,30,54,0.0
+Sheds,30,55,0.0
+Sheds,30,56,0.0
+Sheds,30,57,0.0
+Sheds,30,58,0.0
+Sheds,30,59,0.010101010101010102
+Sheds,30,60,0.0
+Sheds,30,61,0.0
+Sheds,30,62,0.0
+Sheds,30,63,0.0
+Sheds,30,64,0.0
+Sheds,30,65,0.0
+Sheds,30,66,0.0
+Sheds,30,67,0.02564102564102564
+Sheds,30,68,0.0
+Sheds,30,69,0.0
+Sheds,30,70,0.05263157894736842
+Sheds,30,71,0.005025125628140704
+Sheds,30,72,0.02564102564102564
+Sheds,30,73,0.0
+Sheds,30,74,0.0
+Sheds,30,75,0.0
+Sheds,30,76,0.0
+Sheds,30,77,0.0
+Sheds,30,78,0.0
+Sheds,30,79,0.0
+Sheds,30,80,0.0582010582010582
+Sheds,30,81,0.005025125628140704
+Sheds,30,82,0.0
+Sheds,30,83,0.0
+Sheds,30,84,0.0
+Sheds,30,85,0.0
+Sheds,30,86,0.0
+Sheds,31,32,1.0
+Sheds,31,33,1.0
+Sheds,31,34,1.0
+Sheds,31,35,1.0
+Sheds,31,36,1.0
+Sheds,31,37,1.0
+Sheds,31,38,1.0
+Sheds,31,39,1.0
+Sheds,31,40,1.0
+Sheds,31,41,1.0
+Sheds,31,42,1.0
+Sheds,31,43,1.0
+Sheds,31,44,1.0
+Sheds,31,45,1.0
+Sheds,31,46,1.0
+Sheds,31,47,0.0
+Sheds,31,48,0.0
+Sheds,31,49,0.0
+Sheds,31,50,0.0
+Sheds,31,51,0.0
+Sheds,31,52,0.0
+Sheds,31,53,0.0
+Sheds,31,54,0.0
+Sheds,31,55,0.0
+Sheds,31,56,0.0
+Sheds,31,57,0.0
+Sheds,31,58,0.0
+Sheds,31,59,0.0
+Sheds,31,60,0.0
+Sheds,31,61,0.0
+Sheds,31,62,0.0
+Sheds,31,63,0.0
+Sheds,31,64,0.0
+Sheds,31,65,0.0
+Sheds,31,66,0.0
+Sheds,31,67,0.0
+Sheds,31,68,0.0
+Sheds,31,69,0.0
+Sheds,31,70,0.0
+Sheds,31,71,0.0
+Sheds,31,72,0.0
+Sheds,31,73,0.0
+Sheds,31,74,0.0
+Sheds,31,75,0.0
+Sheds,31,76,0.0
+Sheds,31,77,0.0
+Sheds,31,78,0.0
+Sheds,31,79,0.0
+Sheds,31,80,0.0
+Sheds,31,81,0.0
+Sheds,31,82,0.0
+Sheds,31,83,0.0
+Sheds,31,84,0.0
+Sheds,31,85,0.0
+Sheds,31,86,0.0
+Sheds,32,33,1.0
+Sheds,32,34,1.0
+Sheds,32,35,1.0
+Sheds,32,36,1.0
+Sheds,32,37,1.0
+Sheds,32,38,1.0
+Sheds,32,39,1.0
+Sheds,32,40,1.0
+Sheds,32,41,1.0
+Sheds,32,42,1.0
+Sheds,32,43,1.0
+Sheds,32,44,1.0
+Sheds,32,45,1.0
+Sheds,32,46,1.0
+Sheds,32,47,0.0
+Sheds,32,48,0.0
+Sheds,32,49,0.0
+Sheds,32,50,0.0
+Sheds,32,51,0.0
+Sheds,32,52,0.0
+Sheds,32,53,0.0
+Sheds,32,54,0.0
+Sheds,32,55,0.0
+Sheds,32,56,0.0
+Sheds,32,57,0.0
+Sheds,32,58,0.0
+Sheds,32,59,0.0
+Sheds,32,60,0.0
+Sheds,32,61,0.0
+Sheds,32,62,0.0
+Sheds,32,63,0.0
+Sheds,32,64,0.0
+Sheds,32,65,0.0
+Sheds,32,66,0.0
+Sheds,32,67,0.0
+Sheds,32,68,0.0
+Sheds,32,69,0.0
+Sheds,32,70,0.0
+Sheds,32,71,0.0
+Sheds,32,72,0.0
+Sheds,32,73,0.0
+Sheds,32,74,0.0
+Sheds,32,75,0.0
+Sheds,32,76,0.0
+Sheds,32,77,0.0
+Sheds,32,78,0.0
+Sheds,32,79,0.0
+Sheds,32,80,0.0
+Sheds,32,81,0.0
+Sheds,32,82,0.0
+Sheds,32,83,0.0
+Sheds,32,84,0.0
+Sheds,32,85,0.0
+Sheds,32,86,0.0
+Sheds,33,34,1.0
+Sheds,33,35,1.0
+Sheds,33,36,1.0
+Sheds,33,37,1.0
+Sheds,33,38,1.0
+Sheds,33,39,1.0
+Sheds,33,40,1.0
+Sheds,33,41,1.0
+Sheds,33,42,1.0
+Sheds,33,43,1.0
+Sheds,33,44,1.0
+Sheds,33,45,1.0
+Sheds,33,46,1.0
+Sheds,33,47,0.0
+Sheds,33,48,0.0
+Sheds,33,49,0.0
+Sheds,33,50,0.0
+Sheds,33,51,0.0
+Sheds,33,52,0.0
+Sheds,33,53,0.0
+Sheds,33,54,0.0
+Sheds,33,55,0.0
+Sheds,33,56,0.0
+Sheds,33,57,0.0
+Sheds,33,58,0.0
+Sheds,33,59,0.0
+Sheds,33,60,0.0
+Sheds,33,61,0.0
+Sheds,33,62,0.0
+Sheds,33,63,0.0
+Sheds,33,64,0.0
+Sheds,33,65,0.0
+Sheds,33,66,0.0
+Sheds,33,67,0.0
+Sheds,33,68,0.0
+Sheds,33,69,0.0
+Sheds,33,70,0.0
+Sheds,33,71,0.0
+Sheds,33,72,0.0
+Sheds,33,73,0.0
+Sheds,33,74,0.0
+Sheds,33,75,0.0
+Sheds,33,76,0.0
+Sheds,33,77,0.0
+Sheds,33,78,0.0
+Sheds,33,79,0.0
+Sheds,33,80,0.0
+Sheds,33,81,0.0
+Sheds,33,82,0.0
+Sheds,33,83,0.0
+Sheds,33,84,0.0
+Sheds,33,85,0.0
+Sheds,33,86,0.0
+Sheds,34,35,1.0
+Sheds,34,36,1.0
+Sheds,34,37,1.0
+Sheds,34,38,1.0
+Sheds,34,39,1.0
+Sheds,34,40,1.0
+Sheds,34,41,1.0
+Sheds,34,42,1.0
+Sheds,34,43,1.0
+Sheds,34,44,1.0
+Sheds,34,45,1.0
+Sheds,34,46,1.0
+Sheds,34,47,0.0
+Sheds,34,48,0.0
+Sheds,34,49,0.0
+Sheds,34,50,0.0
+Sheds,34,51,0.0
+Sheds,34,52,0.0
+Sheds,34,53,0.0
+Sheds,34,54,0.0
+Sheds,34,55,0.0
+Sheds,34,56,0.0
+Sheds,34,57,0.0
+Sheds,34,58,0.0
+Sheds,34,59,0.0
+Sheds,34,60,0.0
+Sheds,34,61,0.0
+Sheds,34,62,0.0
+Sheds,34,63,0.0
+Sheds,34,64,0.0
+Sheds,34,65,0.0
+Sheds,34,66,0.0
+Sheds,34,67,0.0
+Sheds,34,68,0.0
+Sheds,34,69,0.0
+Sheds,34,70,0.0
+Sheds,34,71,0.0
+Sheds,34,72,0.0
+Sheds,34,73,0.0
+Sheds,34,74,0.0
+Sheds,34,75,0.0
+Sheds,34,76,0.0
+Sheds,34,77,0.0
+Sheds,34,78,0.0
+Sheds,34,79,0.0
+Sheds,34,80,0.0
+Sheds,34,81,0.0
+Sheds,34,82,0.0
+Sheds,34,83,0.0
+Sheds,34,84,0.0
+Sheds,34,85,0.0
+Sheds,34,86,0.0
+Sheds,35,36,1.0
+Sheds,35,37,1.0
+Sheds,35,38,1.0
+Sheds,35,39,1.0
+Sheds,35,40,1.0
+Sheds,35,41,1.0
+Sheds,35,42,1.0
+Sheds,35,43,1.0
+Sheds,35,44,1.0
+Sheds,35,45,1.0
+Sheds,35,46,1.0
+Sheds,35,47,0.0
+Sheds,35,48,0.0
+Sheds,35,49,0.0
+Sheds,35,50,0.0
+Sheds,35,51,0.0
+Sheds,35,52,0.0
+Sheds,35,53,0.0
+Sheds,35,54,0.0
+Sheds,35,55,0.0
+Sheds,35,56,0.0
+Sheds,35,57,0.0
+Sheds,35,58,0.0
+Sheds,35,59,0.0
+Sheds,35,60,0.0
+Sheds,35,61,0.0
+Sheds,35,62,0.0
+Sheds,35,63,0.0
+Sheds,35,64,0.0
+Sheds,35,65,0.0
+Sheds,35,66,0.0
+Sheds,35,67,0.0
+Sheds,35,68,0.0
+Sheds,35,69,0.0
+Sheds,35,70,0.0
+Sheds,35,71,0.0
+Sheds,35,72,0.0
+Sheds,35,73,0.0
+Sheds,35,74,0.0
+Sheds,35,75,0.0
+Sheds,35,76,0.0
+Sheds,35,77,0.0
+Sheds,35,78,0.0
+Sheds,35,79,0.0
+Sheds,35,80,0.0
+Sheds,35,81,0.0
+Sheds,35,82,0.0
+Sheds,35,83,0.0
+Sheds,35,84,0.0
+Sheds,35,85,0.0
+Sheds,35,86,0.0
+Sheds,36,37,1.0
+Sheds,36,38,1.0
+Sheds,36,39,1.0
+Sheds,36,40,1.0
+Sheds,36,41,1.0
+Sheds,36,42,1.0
+Sheds,36,43,1.0
+Sheds,36,44,1.0
+Sheds,36,45,1.0
+Sheds,36,46,1.0
+Sheds,36,47,0.0
+Sheds,36,48,0.0
+Sheds,36,49,0.0
+Sheds,36,50,0.0
+Sheds,36,51,0.0
+Sheds,36,52,0.0
+Sheds,36,53,0.0
+Sheds,36,54,0.0
+Sheds,36,55,0.0
+Sheds,36,56,0.0
+Sheds,36,57,0.0
+Sheds,36,58,0.0
+Sheds,36,59,0.0
+Sheds,36,60,0.0
+Sheds,36,61,0.0
+Sheds,36,62,0.0
+Sheds,36,63,0.0
+Sheds,36,64,0.0
+Sheds,36,65,0.0
+Sheds,36,66,0.0
+Sheds,36,67,0.0
+Sheds,36,68,0.0
+Sheds,36,69,0.0
+Sheds,36,70,0.0
+Sheds,36,71,0.0
+Sheds,36,72,0.0
+Sheds,36,73,0.0
+Sheds,36,74,0.0
+Sheds,36,75,0.0
+Sheds,36,76,0.0
+Sheds,36,77,0.0
+Sheds,36,78,0.0
+Sheds,36,79,0.0
+Sheds,36,80,0.0
+Sheds,36,81,0.0
+Sheds,36,82,0.0
+Sheds,36,83,0.0
+Sheds,36,84,0.0
+Sheds,36,85,0.0
+Sheds,36,86,0.0
+Sheds,37,38,1.0
+Sheds,37,39,1.0
+Sheds,37,40,1.0
+Sheds,37,41,1.0
+Sheds,37,42,1.0
+Sheds,37,43,1.0
+Sheds,37,44,1.0
+Sheds,37,45,1.0
+Sheds,37,46,1.0
+Sheds,37,47,0.0
+Sheds,37,48,0.0
+Sheds,37,49,0.0
+Sheds,37,50,0.0
+Sheds,37,51,0.0
+Sheds,37,52,0.0
+Sheds,37,53,0.0
+Sheds,37,54,0.0
+Sheds,37,55,0.0
+Sheds,37,56,0.0
+Sheds,37,57,0.0
+Sheds,37,58,0.0
+Sheds,37,59,0.0
+Sheds,37,60,0.0
+Sheds,37,61,0.0
+Sheds,37,62,0.0
+Sheds,37,63,0.0
+Sheds,37,64,0.0
+Sheds,37,65,0.0
+Sheds,37,66,0.0
+Sheds,37,67,0.0
+Sheds,37,68,0.0
+Sheds,37,69,0.0
+Sheds,37,70,0.0
+Sheds,37,71,0.0
+Sheds,37,72,0.0
+Sheds,37,73,0.0
+Sheds,37,74,0.0
+Sheds,37,75,0.0
+Sheds,37,76,0.0
+Sheds,37,77,0.0
+Sheds,37,78,0.0
+Sheds,37,79,0.0
+Sheds,37,80,0.0
+Sheds,37,81,0.0
+Sheds,37,82,0.0
+Sheds,37,83,0.0
+Sheds,37,84,0.0
+Sheds,37,85,0.0
+Sheds,37,86,0.0
+Sheds,38,39,1.0
+Sheds,38,40,1.0
+Sheds,38,41,1.0
+Sheds,38,42,1.0
+Sheds,38,43,1.0
+Sheds,38,44,1.0
+Sheds,38,45,1.0
+Sheds,38,46,1.0
+Sheds,38,47,0.0
+Sheds,38,48,0.0
+Sheds,38,49,0.0
+Sheds,38,50,0.0
+Sheds,38,51,0.0
+Sheds,38,52,0.0
+Sheds,38,53,0.0
+Sheds,38,54,0.0
+Sheds,38,55,0.0
+Sheds,38,56,0.0
+Sheds,38,57,0.0
+Sheds,38,58,0.0
+Sheds,38,59,0.0
+Sheds,38,60,0.0
+Sheds,38,61,0.0
+Sheds,38,62,0.0
+Sheds,38,63,0.0
+Sheds,38,64,0.0
+Sheds,38,65,0.0
+Sheds,38,66,0.0
+Sheds,38,67,0.0
+Sheds,38,68,0.0
+Sheds,38,69,0.0
+Sheds,38,70,0.0
+Sheds,38,71,0.0
+Sheds,38,72,0.0
+Sheds,38,73,0.0
+Sheds,38,74,0.0
+Sheds,38,75,0.0
+Sheds,38,76,0.0
+Sheds,38,77,0.0
+Sheds,38,78,0.0
+Sheds,38,79,0.0
+Sheds,38,80,0.0
+Sheds,38,81,0.0
+Sheds,38,82,0.0
+Sheds,38,83,0.0
+Sheds,38,84,0.0
+Sheds,38,85,0.0
+Sheds,38,86,0.0
+Sheds,39,40,1.0
+Sheds,39,41,1.0
+Sheds,39,42,1.0
+Sheds,39,43,1.0
+Sheds,39,44,1.0
+Sheds,39,45,1.0
+Sheds,39,46,1.0
+Sheds,39,47,0.0
+Sheds,39,48,0.0
+Sheds,39,49,0.0
+Sheds,39,50,0.0
+Sheds,39,51,0.0
+Sheds,39,52,0.0
+Sheds,39,53,0.0
+Sheds,39,54,0.0
+Sheds,39,55,0.0
+Sheds,39,56,0.0
+Sheds,39,57,0.0
+Sheds,39,58,0.0
+Sheds,39,59,0.0
+Sheds,39,60,0.0
+Sheds,39,61,0.0
+Sheds,39,62,0.0
+Sheds,39,63,0.0
+Sheds,39,64,0.0
+Sheds,39,65,0.0
+Sheds,39,66,0.0
+Sheds,39,67,0.0
+Sheds,39,68,0.0
+Sheds,39,69,0.0
+Sheds,39,70,0.0
+Sheds,39,71,0.0
+Sheds,39,72,0.0
+Sheds,39,73,0.0
+Sheds,39,74,0.0
+Sheds,39,75,0.0
+Sheds,39,76,0.0
+Sheds,39,77,0.0
+Sheds,39,78,0.0
+Sheds,39,79,0.0
+Sheds,39,80,0.0
+Sheds,39,81,0.0
+Sheds,39,82,0.0
+Sheds,39,83,0.0
+Sheds,39,84,0.0
+Sheds,39,85,0.0
+Sheds,39,86,0.0
+Sheds,40,41,1.0
+Sheds,40,42,1.0
+Sheds,40,43,1.0
+Sheds,40,44,1.0
+Sheds,40,45,1.0
+Sheds,40,46,1.0
+Sheds,40,47,0.0
+Sheds,40,48,0.0
+Sheds,40,49,0.0
+Sheds,40,50,0.0
+Sheds,40,51,0.0
+Sheds,40,52,0.0
+Sheds,40,53,0.0
+Sheds,40,54,0.0
+Sheds,40,55,0.0
+Sheds,40,56,0.0
+Sheds,40,57,0.0
+Sheds,40,58,0.0
+Sheds,40,59,0.0
+Sheds,40,60,0.0
+Sheds,40,61,0.0
+Sheds,40,62,0.0
+Sheds,40,63,0.0
+Sheds,40,64,0.0
+Sheds,40,65,0.0
+Sheds,40,66,0.0
+Sheds,40,67,0.0
+Sheds,40,68,0.0
+Sheds,40,69,0.0
+Sheds,40,70,0.0
+Sheds,40,71,0.0
+Sheds,40,72,0.0
+Sheds,40,73,0.0
+Sheds,40,74,0.0
+Sheds,40,75,0.0
+Sheds,40,76,0.0
+Sheds,40,77,0.0
+Sheds,40,78,0.0
+Sheds,40,79,0.0
+Sheds,40,80,0.0
+Sheds,40,81,0.0
+Sheds,40,82,0.0
+Sheds,40,83,0.0
+Sheds,40,84,0.0
+Sheds,40,85,0.0
+Sheds,40,86,0.0
+Sheds,41,42,1.0
+Sheds,41,43,1.0
+Sheds,41,44,1.0
+Sheds,41,45,1.0
+Sheds,41,46,1.0
+Sheds,41,47,0.0
+Sheds,41,48,0.0
+Sheds,41,49,0.0
+Sheds,41,50,0.0
+Sheds,41,51,0.0
+Sheds,41,52,0.0
+Sheds,41,53,0.0
+Sheds,41,54,0.0
+Sheds,41,55,0.0
+Sheds,41,56,0.0
+Sheds,41,57,0.0
+Sheds,41,58,0.0
+Sheds,41,59,0.0
+Sheds,41,60,0.0
+Sheds,41,61,0.0
+Sheds,41,62,0.0
+Sheds,41,63,0.0
+Sheds,41,64,0.0
+Sheds,41,65,0.0
+Sheds,41,66,0.0
+Sheds,41,67,0.0
+Sheds,41,68,0.0
+Sheds,41,69,0.0
+Sheds,41,70,0.0
+Sheds,41,71,0.0
+Sheds,41,72,0.0
+Sheds,41,73,0.0
+Sheds,41,74,0.0
+Sheds,41,75,0.0
+Sheds,41,76,0.0
+Sheds,41,77,0.0
+Sheds,41,78,0.0
+Sheds,41,79,0.0
+Sheds,41,80,0.0
+Sheds,41,81,0.0
+Sheds,41,82,0.0
+Sheds,41,83,0.0
+Sheds,41,84,0.0
+Sheds,41,85,0.0
+Sheds,41,86,0.0
+Sheds,42,43,1.0
+Sheds,42,44,1.0
+Sheds,42,45,1.0
+Sheds,42,46,1.0
+Sheds,42,47,0.0
+Sheds,42,48,0.0
+Sheds,42,49,0.0
+Sheds,42,50,0.0
+Sheds,42,51,0.0
+Sheds,42,52,0.0
+Sheds,42,53,0.0
+Sheds,42,54,0.0
+Sheds,42,55,0.0
+Sheds,42,56,0.0
+Sheds,42,57,0.0
+Sheds,42,58,0.0
+Sheds,42,59,0.0
+Sheds,42,60,0.0
+Sheds,42,61,0.0
+Sheds,42,62,0.0
+Sheds,42,63,0.0
+Sheds,42,64,0.0
+Sheds,42,65,0.0
+Sheds,42,66,0.0
+Sheds,42,67,0.0
+Sheds,42,68,0.0
+Sheds,42,69,0.0
+Sheds,42,70,0.0
+Sheds,42,71,0.0
+Sheds,42,72,0.0
+Sheds,42,73,0.0
+Sheds,42,74,0.0
+Sheds,42,75,0.0
+Sheds,42,76,0.0
+Sheds,42,77,0.0
+Sheds,42,78,0.0
+Sheds,42,79,0.0
+Sheds,42,80,0.0
+Sheds,42,81,0.0
+Sheds,42,82,0.0
+Sheds,42,83,0.0
+Sheds,42,84,0.0
+Sheds,42,85,0.0
+Sheds,42,86,0.0
+Sheds,43,44,1.0
+Sheds,43,45,1.0
+Sheds,43,46,1.0
+Sheds,43,47,0.0
+Sheds,43,48,0.0
+Sheds,43,49,0.0
+Sheds,43,50,0.0
+Sheds,43,51,0.0
+Sheds,43,52,0.0
+Sheds,43,53,0.0
+Sheds,43,54,0.0
+Sheds,43,55,0.0
+Sheds,43,56,0.0
+Sheds,43,57,0.0
+Sheds,43,58,0.0
+Sheds,43,59,0.0
+Sheds,43,60,0.0
+Sheds,43,61,0.0
+Sheds,43,62,0.0
+Sheds,43,63,0.0
+Sheds,43,64,0.0
+Sheds,43,65,0.0
+Sheds,43,66,0.0
+Sheds,43,67,0.0
+Sheds,43,68,0.0
+Sheds,43,69,0.0
+Sheds,43,70,0.0
+Sheds,43,71,0.0
+Sheds,43,72,0.0
+Sheds,43,73,0.0
+Sheds,43,74,0.0
+Sheds,43,75,0.0
+Sheds,43,76,0.0
+Sheds,43,77,0.0
+Sheds,43,78,0.0
+Sheds,43,79,0.0
+Sheds,43,80,0.0
+Sheds,43,81,0.0
+Sheds,43,82,0.0
+Sheds,43,83,0.0
+Sheds,43,84,0.0
+Sheds,43,85,0.0
+Sheds,43,86,0.0
+Sheds,44,45,1.0
+Sheds,44,46,1.0
+Sheds,44,47,0.0
+Sheds,44,48,0.0
+Sheds,44,49,0.0
+Sheds,44,50,0.0
+Sheds,44,51,0.0
+Sheds,44,52,0.0
+Sheds,44,53,0.0
+Sheds,44,54,0.0
+Sheds,44,55,0.0
+Sheds,44,56,0.0
+Sheds,44,57,0.0
+Sheds,44,58,0.0
+Sheds,44,59,0.0
+Sheds,44,60,0.0
+Sheds,44,61,0.0
+Sheds,44,62,0.0
+Sheds,44,63,0.0
+Sheds,44,64,0.0
+Sheds,44,65,0.0
+Sheds,44,66,0.0
+Sheds,44,67,0.0
+Sheds,44,68,0.0
+Sheds,44,69,0.0
+Sheds,44,70,0.0
+Sheds,44,71,0.0
+Sheds,44,72,0.0
+Sheds,44,73,0.0
+Sheds,44,74,0.0
+Sheds,44,75,0.0
+Sheds,44,76,0.0
+Sheds,44,77,0.0
+Sheds,44,78,0.0
+Sheds,44,79,0.0
+Sheds,44,80,0.0
+Sheds,44,81,0.0
+Sheds,44,82,0.0
+Sheds,44,83,0.0
+Sheds,44,84,0.0
+Sheds,44,85,0.0
+Sheds,44,86,0.0
+Sheds,45,46,1.0
+Sheds,45,47,0.0
+Sheds,45,48,0.0
+Sheds,45,49,0.0
+Sheds,45,50,0.0
+Sheds,45,51,0.0
+Sheds,45,52,0.0
+Sheds,45,53,0.0
+Sheds,45,54,0.0
+Sheds,45,55,0.0
+Sheds,45,56,0.0
+Sheds,45,57,0.0
+Sheds,45,58,0.0
+Sheds,45,59,0.0
+Sheds,45,60,0.0
+Sheds,45,61,0.0
+Sheds,45,62,0.0
+Sheds,45,63,0.0
+Sheds,45,64,0.0
+Sheds,45,65,0.0
+Sheds,45,66,0.0
+Sheds,45,67,0.0
+Sheds,45,68,0.0
+Sheds,45,69,0.0
+Sheds,45,70,0.0
+Sheds,45,71,0.0
+Sheds,45,72,0.0
+Sheds,45,73,0.0
+Sheds,45,74,0.0
+Sheds,45,75,0.0
+Sheds,45,76,0.0
+Sheds,45,77,0.0
+Sheds,45,78,0.0
+Sheds,45,79,0.0
+Sheds,45,80,0.0
+Sheds,45,81,0.0
+Sheds,45,82,0.0
+Sheds,45,83,0.0
+Sheds,45,84,0.0
+Sheds,45,85,0.0
+Sheds,45,86,0.0
+Sheds,46,47,0.0
+Sheds,46,48,0.0
+Sheds,46,49,0.0
+Sheds,46,50,0.0
+Sheds,46,51,0.0
+Sheds,46,52,0.0
+Sheds,46,53,0.0
+Sheds,46,54,0.0
+Sheds,46,55,0.0
+Sheds,46,56,0.0
+Sheds,46,57,0.0
+Sheds,46,58,0.0
+Sheds,46,59,0.0
+Sheds,46,60,0.0
+Sheds,46,61,0.0
+Sheds,46,62,0.0
+Sheds,46,63,0.0
+Sheds,46,64,0.0
+Sheds,46,65,0.0
+Sheds,46,66,0.0
+Sheds,46,67,0.0
+Sheds,46,68,0.0
+Sheds,46,69,0.0
+Sheds,46,70,0.0
+Sheds,46,71,0.0
+Sheds,46,72,0.0
+Sheds,46,73,0.0
+Sheds,46,74,0.0
+Sheds,46,75,0.0
+Sheds,46,76,0.0
+Sheds,46,77,0.0
+Sheds,46,78,0.0
+Sheds,46,79,0.0
+Sheds,46,80,0.0
+Sheds,46,81,0.0
+Sheds,46,82,0.0
+Sheds,46,83,0.0
+Sheds,46,84,0.0
+Sheds,46,85,0.0
+Sheds,46,86,0.0
+Sheds,47,48,0.0
+Sheds,47,49,0.041666666666666664
+Sheds,47,50,0.3422818791946309
+Sheds,47,51,0.0
+Sheds,47,52,0.04712041884816754
+Sheds,47,53,0.015228426395939087
+Sheds,47,54,0.02040816326530612
+Sheds,47,55,0.3698630136986301
+Sheds,47,56,0.27388535031847133
+Sheds,47,57,0.0
+Sheds,47,58,0.0
+Sheds,47,59,0.02564102564102564
+Sheds,47,60,0.47058823529411764
+Sheds,47,61,0.0
+Sheds,47,62,0.0
+Sheds,47,63,0.0
+Sheds,47,64,0.0
+Sheds,47,65,0.0
+Sheds,47,66,0.0
+Sheds,47,67,0.0
+Sheds,47,68,0.0
+Sheds,47,69,0.0
+Sheds,47,70,0.0582010582010582
+Sheds,47,71,0.14285714285714285
+Sheds,47,72,0.010101010101010102
+Sheds,47,73,0.0
+Sheds,47,74,0.0
+Sheds,47,75,0.0
+Sheds,47,76,0.0
+Sheds,47,77,0.0
+Sheds,47,78,0.0
+Sheds,47,79,0.0582010582010582
+Sheds,47,80,0.0989010989010989
+Sheds,47,81,0.42857142857142855
+Sheds,47,82,0.0
+Sheds,47,83,0.0
+Sheds,47,84,0.0
+Sheds,47,85,0.0
+Sheds,47,86,0.0
+Sheds,48,49,0.0
+Sheds,48,50,0.0
+Sheds,48,51,0.0
+Sheds,48,52,0.0
+Sheds,48,53,0.0
+Sheds,48,54,0.0
+Sheds,48,55,0.0
+Sheds,48,56,0.0
+Sheds,48,57,0.0
+Sheds,48,58,0.0
+Sheds,48,59,0.0
+Sheds,48,60,0.0
+Sheds,48,61,0.0
+Sheds,48,62,0.09289617486338798
+Sheds,48,63,0.0
+Sheds,48,64,0.0
+Sheds,48,65,0.0
+Sheds,48,66,0.0
+Sheds,48,67,0.0
+Sheds,48,68,0.0
+Sheds,48,69,0.0
+Sheds,48,70,0.0
+Sheds,48,71,0.0
+Sheds,48,72,0.0
+Sheds,48,73,0.0
+Sheds,48,74,0.0
+Sheds,48,75,0.0
+Sheds,48,76,0.0
+Sheds,48,77,0.0
+Sheds,48,78,0.0
+Sheds,48,79,0.0
+Sheds,48,80,0.0
+Sheds,48,81,0.0
+Sheds,48,82,0.0
+Sheds,48,83,0.0
+Sheds,48,84,0.0
+Sheds,48,85,0.0
+Sheds,48,86,0.0
+Sheds,49,50,0.06951871657754011
+Sheds,49,51,0.16279069767441862
+Sheds,49,52,0.0
+Sheds,49,53,0.07526881720430108
+Sheds,49,54,0.005025125628140704
+Sheds,49,55,0.07526881720430108
+Sheds,49,56,0.06951871657754011
+Sheds,49,57,0.0
+Sheds,49,58,0.0
+Sheds,49,59,0.0
+Sheds,49,60,0.10497237569060773
+Sheds,49,61,0.07526881720430108
+Sheds,49,62,0.0
+Sheds,49,63,0.0
+Sheds,49,64,0.0
+Sheds,49,65,0.0
+Sheds,49,66,0.0
+Sheds,49,67,0.0
+Sheds,49,68,0.0
+Sheds,49,69,0.0
+Sheds,49,70,0.0
+Sheds,49,71,0.0
+Sheds,49,72,0.0
+Sheds,49,73,0.0
+Sheds,49,74,0.0
+Sheds,49,75,0.0
+Sheds,49,76,0.0
+Sheds,49,77,0.0
+Sheds,49,78,0.0
+Sheds,49,79,0.16279069767441862
+Sheds,49,80,0.015228426395939087
+Sheds,49,81,0.07526881720430108
+Sheds,49,82,0.005025125628140704
+Sheds,49,83,0.0
+Sheds,49,84,0.0
+Sheds,49,85,0.0
+Sheds,49,86,0.0
+Sheds,50,51,0.0
+Sheds,50,52,0.030927835051546393
+Sheds,50,53,0.05263157894736842
+Sheds,50,54,0.06951871657754011
+Sheds,50,55,0.3793103448275862
+Sheds,50,56,0.30718954248366015
+Sheds,50,57,0.0
+Sheds,50,58,0.0
+Sheds,50,59,0.005025125628140704
+Sheds,50,60,0.32450331125827814
+Sheds,50,61,0.0
+Sheds,50,62,0.0
+Sheds,50,63,0.0
+Sheds,50,64,0.0
+Sheds,50,65,0.0
+Sheds,50,66,0.0
+Sheds,50,67,0.0
+Sheds,50,68,0.0
+Sheds,50,69,0.0
+Sheds,50,70,0.010101010101010102
+Sheds,50,71,0.0989010989010989
+Sheds,50,72,0.0
+Sheds,50,73,0.0
+Sheds,50,74,0.0
+Sheds,50,75,0.0
+Sheds,50,76,0.0
+Sheds,50,77,0.0
+Sheds,50,78,0.0
+Sheds,50,79,0.08108108108108109
+Sheds,50,80,0.02040816326530612
+Sheds,50,81,0.25
+Sheds,50,82,0.0
+Sheds,50,83,0.0
+Sheds,50,84,0.0
+Sheds,50,85,0.0
+Sheds,50,86,0.0
+Sheds,51,52,0.0
+Sheds,51,53,0.21212121212121213
+Sheds,51,54,0.005025125628140704
+Sheds,51,55,0.010101010101010102
+Sheds,51,56,0.010101010101010102
+Sheds,51,57,0.0
+Sheds,51,58,0.010101010101010102
+Sheds,51,59,0.0
+Sheds,51,60,0.005025125628140704
+Sheds,51,61,0.10497237569060773
+Sheds,51,62,0.0
+Sheds,51,63,0.0
+Sheds,51,64,0.0
+Sheds,51,65,0.0
+Sheds,51,66,0.0
+Sheds,51,67,0.0
+Sheds,51,68,0.0
+Sheds,51,69,0.0
+Sheds,51,70,0.0
+Sheds,51,71,0.0
+Sheds,51,72,0.0
+Sheds,51,73,0.0
+Sheds,51,74,0.0
+Sheds,51,75,0.0
+Sheds,51,76,0.0
+Sheds,51,77,0.0
+Sheds,51,78,0.0
+Sheds,51,79,0.03626943005181347
+Sheds,51,80,0.0
+Sheds,51,81,0.0
+Sheds,51,82,0.0
+Sheds,51,83,0.0
+Sheds,51,84,0.0
+Sheds,51,85,0.0
+Sheds,51,86,0.0
+Sheds,52,53,0.0
+Sheds,52,54,0.0
+Sheds,52,55,0.010101010101010102
+Sheds,52,56,0.02040816326530612
+Sheds,52,57,0.0
+Sheds,52,58,0.0
+Sheds,52,59,0.0
+Sheds,52,60,0.015228426395939087
+Sheds,52,61,0.0
+Sheds,52,62,0.0
+Sheds,52,63,0.0
+Sheds,52,64,0.0
+Sheds,52,65,0.0
+Sheds,52,66,0.0
+Sheds,52,67,0.0
+Sheds,52,68,0.0
+Sheds,52,69,0.0
+Sheds,52,70,0.13636363636363635
+Sheds,52,71,0.0989010989010989
+Sheds,52,72,0.0
+Sheds,52,73,0.0
+Sheds,52,74,0.0
+Sheds,52,75,0.0
+Sheds,52,76,0.0
+Sheds,52,77,0.0
+Sheds,52,78,0.0
+Sheds,52,79,0.0
+Sheds,52,80,0.02040816326530612
+Sheds,52,81,0.015228426395939087
+Sheds,52,82,0.0
+Sheds,52,83,0.0
+Sheds,52,84,0.0
+Sheds,52,85,0.0
+Sheds,52,86,0.0
+Sheds,53,54,0.17647058823529413
+Sheds,53,55,0.05263157894736842
+Sheds,53,56,0.0989010989010989
+Sheds,53,57,0.0
+Sheds,53,58,0.0
+Sheds,53,59,0.0
+Sheds,53,60,0.02564102564102564
+Sheds,53,61,0.005025125628140704
+Sheds,53,62,0.0
+Sheds,53,63,0.0
+Sheds,53,64,0.0
+Sheds,53,65,0.0
+Sheds,53,66,0.0
+Sheds,53,67,0.0
+Sheds,53,68,0.0
+Sheds,53,69,0.0
+Sheds,53,70,0.0
+Sheds,53,71,0.0
+Sheds,53,72,0.0
+Sheds,53,73,0.0
+Sheds,53,74,0.0
+Sheds,53,75,0.0
+Sheds,53,76,0.0
+Sheds,53,77,0.0
+Sheds,53,78,0.0
+Sheds,53,79,0.09289617486338798
+Sheds,53,80,0.0
+Sheds,53,81,0.015228426395939087
+Sheds,53,82,0.0
+Sheds,53,83,0.0
+Sheds,53,84,0.0
+Sheds,53,85,0.0
+Sheds,53,86,0.0
+Sheds,54,55,0.03626943005181347
+Sheds,54,56,0.06951871657754011
+Sheds,54,57,0.0
+Sheds,54,58,0.0
+Sheds,54,59,0.0
+Sheds,54,60,0.010101010101010102
+Sheds,54,61,0.0
+Sheds,54,62,0.0
+Sheds,54,63,0.0
+Sheds,54,64,0.0
+Sheds,54,65,0.0
+Sheds,54,66,0.0
+Sheds,54,67,0.0
+Sheds,54,68,0.0
+Sheds,54,69,0.0
+Sheds,54,70,0.0
+Sheds,54,71,0.0
+Sheds,54,72,0.0
+Sheds,54,73,0.0
+Sheds,54,74,0.0
+Sheds,54,75,0.0
+Sheds,54,76,0.0
+Sheds,54,77,0.0
+Sheds,54,78,0.0
+Sheds,54,79,0.010101010101010102
+Sheds,54,80,0.0
+Sheds,54,81,0.010101010101010102
+Sheds,54,82,0.0
+Sheds,54,83,0.0
+Sheds,54,84,0.0
+Sheds,54,85,0.0
+Sheds,54,86,0.0
+Sheds,55,56,0.21212121212121213
+Sheds,55,57,0.0
+Sheds,55,58,0.0
+Sheds,55,59,0.015228426395939087
+Sheds,55,60,0.47058823529411764
+Sheds,55,61,0.005025125628140704
+Sheds,55,62,0.0
+Sheds,55,63,0.0
+Sheds,55,64,0.0
+Sheds,55,65,0.0
+Sheds,55,66,0.0
+Sheds,55,67,0.0
+Sheds,55,68,0.0
+Sheds,55,69,0.0
+Sheds,55,70,0.015228426395939087
+Sheds,55,71,0.06951871657754011
+Sheds,55,72,0.0
+Sheds,55,73,0.0
+Sheds,55,74,0.0
+Sheds,55,75,0.0
+Sheds,55,76,0.0
+Sheds,55,77,0.0
+Sheds,55,78,0.0
+Sheds,55,79,0.06951871657754011
+Sheds,55,80,0.08695652173913043
+Sheds,55,81,0.3157894736842105
+Sheds,55,82,0.0
+Sheds,55,83,0.0
+Sheds,55,84,0.0
+Sheds,55,85,0.0
+Sheds,55,86,0.0
+Sheds,56,57,0.0
+Sheds,56,58,0.0
+Sheds,56,59,0.005025125628140704
+Sheds,56,60,0.22699386503067484
+Sheds,56,61,0.0
+Sheds,56,62,0.0
+Sheds,56,63,0.0
+Sheds,56,64,0.0
+Sheds,56,65,0.0
+Sheds,56,66,0.0
+Sheds,56,67,0.0
+Sheds,56,68,0.0
+Sheds,56,69,0.0
+Sheds,56,70,0.015228426395939087
+Sheds,56,71,0.030927835051546393
+Sheds,56,72,0.0
+Sheds,56,73,0.0
+Sheds,56,74,0.0
+Sheds,56,75,0.0
+Sheds,56,76,0.0
+Sheds,56,77,0.0
+Sheds,56,78,0.0
+Sheds,56,79,0.14942528735632185
+Sheds,56,80,0.02040816326530612
+Sheds,56,81,0.21212121212121213
+Sheds,56,82,0.0
+Sheds,56,83,0.0
+Sheds,56,84,0.0
+Sheds,56,85,0.0
+Sheds,56,86,0.0
+Sheds,57,58,0.30718954248366015
+Sheds,57,59,0.0
+Sheds,57,60,0.0
+Sheds,57,61,0.041666666666666664
+Sheds,57,62,0.0
+Sheds,57,63,0.0
+Sheds,57,64,0.0
+Sheds,57,65,0.0
+Sheds,57,66,0.0
+Sheds,57,67,0.0
+Sheds,57,68,0.0
+Sheds,57,69,0.0
+Sheds,57,70,0.0
+Sheds,57,71,0.0
+Sheds,57,72,0.0
+Sheds,57,73,0.0
+Sheds,57,74,0.0
+Sheds,57,75,0.0
+Sheds,57,76,0.0
+Sheds,57,77,0.0
+Sheds,57,78,0.0
+Sheds,57,79,0.0
+Sheds,57,80,0.0
+Sheds,57,81,0.0
+Sheds,57,82,0.0
+Sheds,57,83,0.0
+Sheds,57,84,0.0
+Sheds,57,85,0.0
+Sheds,57,86,0.0
+Sheds,58,59,0.0
+Sheds,58,60,0.0
+Sheds,58,61,0.14942528735632185
+Sheds,58,62,0.0
+Sheds,58,63,0.0
+Sheds,58,64,0.0
+Sheds,58,65,0.0
+Sheds,58,66,0.0
+Sheds,58,67,0.0
+Sheds,58,68,0.0
+Sheds,58,69,0.0
+Sheds,58,70,0.0
+Sheds,58,71,0.0
+Sheds,58,72,0.0
+Sheds,58,73,0.0
+Sheds,58,74,0.0
+Sheds,58,75,0.0
+Sheds,58,76,0.0
+Sheds,58,77,0.0
+Sheds,58,78,0.0
+Sheds,58,79,0.0
+Sheds,58,80,0.0
+Sheds,58,81,0.0
+Sheds,58,82,0.0
+Sheds,58,83,0.0
+Sheds,58,84,0.0
+Sheds,58,85,0.0
+Sheds,58,86,0.0
+Sheds,59,60,0.02564102564102564
+Sheds,59,61,0.0
+Sheds,59,62,0.0
+Sheds,59,63,0.0
+Sheds,59,64,0.0
+Sheds,59,65,0.0
+Sheds,59,66,0.0
+Sheds,59,67,0.0
+Sheds,59,68,0.0
+Sheds,59,69,0.0
+Sheds,59,70,0.0
+Sheds,59,71,0.005025125628140704
+Sheds,59,72,0.0
+Sheds,59,73,0.0
+Sheds,59,74,0.0
+Sheds,59,75,0.0
+Sheds,59,76,0.0
+Sheds,59,77,0.0
+Sheds,59,78,0.0
+Sheds,59,79,0.0
+Sheds,59,80,0.041666666666666664
+Sheds,59,81,0.02040816326530612
+Sheds,59,82,0.0
+Sheds,59,83,0.015228426395939087
+Sheds,59,84,0.0
+Sheds,59,85,0.0
+Sheds,59,86,0.0
+Sheds,60,61,0.005025125628140704
+Sheds,60,62,0.0
+Sheds,60,63,0.0
+Sheds,60,64,0.0
+Sheds,60,65,0.0
+Sheds,60,66,0.0
+Sheds,60,67,0.0
+Sheds,60,68,0.0
+Sheds,60,69,0.0
+Sheds,60,70,0.005025125628140704
+Sheds,60,71,0.04712041884816754
+Sheds,60,72,0.005025125628140704
+Sheds,60,73,0.0
+Sheds,60,74,0.0
+Sheds,60,75,0.0
+Sheds,60,76,0.0
+Sheds,60,77,0.0
+Sheds,60,78,0.0
+Sheds,60,79,0.07526881720430108
+Sheds,60,80,0.1111111111111111
+Sheds,60,81,0.45985401459854014
+Sheds,60,82,0.0
+Sheds,60,83,0.0
+Sheds,60,84,0.0
+Sheds,60,85,0.0
+Sheds,60,86,0.0
+Sheds,61,62,0.0
+Sheds,61,63,0.0
+Sheds,61,64,0.0
+Sheds,61,65,0.0
+Sheds,61,66,0.0
+Sheds,61,67,0.0
+Sheds,61,68,0.0
+Sheds,61,69,0.0
+Sheds,61,70,0.0
+Sheds,61,71,0.0
+Sheds,61,72,0.0
+Sheds,61,73,0.0
+Sheds,61,74,0.0
+Sheds,61,75,0.0
+Sheds,61,76,0.0
+Sheds,61,77,0.0
+Sheds,61,78,0.0
+Sheds,61,79,0.0
+Sheds,61,80,0.0
+Sheds,61,81,0.0
+Sheds,61,82,0.010101010101010102
+Sheds,61,83,0.0
+Sheds,61,84,0.0
+Sheds,61,85,0.0
+Sheds,61,86,0.0
+Sheds,62,63,0.0
+Sheds,62,64,0.0
+Sheds,62,65,0.0
+Sheds,62,66,0.0
+Sheds,62,67,0.0
+Sheds,62,68,0.0
+Sheds,62,69,0.0
+Sheds,62,70,0.0
+Sheds,62,71,0.0
+Sheds,62,72,0.0
+Sheds,62,73,0.0
+Sheds,62,74,0.0
+Sheds,62,75,0.0
+Sheds,62,76,0.0
+Sheds,62,77,0.0
+Sheds,62,78,0.0
+Sheds,62,79,0.0
+Sheds,62,80,0.0
+Sheds,62,81,0.0
+Sheds,62,82,0.0
+Sheds,62,83,0.0
+Sheds,62,84,0.0
+Sheds,62,85,0.0
+Sheds,62,86,0.0
+Sheds,63,64,0.005025125628140704
+Sheds,63,65,0.03626943005181347
+Sheds,63,66,0.0
+Sheds,63,67,0.0
+Sheds,63,68,0.0
+Sheds,63,69,0.0
+Sheds,63,70,0.0
+Sheds,63,71,0.0
+Sheds,63,72,0.0
+Sheds,63,73,0.0
+Sheds,63,74,0.0
+Sheds,63,75,0.0
+Sheds,63,76,0.015228426395939087
+Sheds,63,77,0.010101010101010102
+Sheds,63,78,0.010101010101010102
+Sheds,63,79,0.0
+Sheds,63,80,0.0
+Sheds,63,81,0.0
+Sheds,63,82,0.0
+Sheds,63,83,0.0
+Sheds,63,84,0.0
+Sheds,63,85,0.005025125628140704
+Sheds,63,86,0.0
+Sheds,64,65,0.02564102564102564
+Sheds,64,66,0.03626943005181347
+Sheds,64,67,0.0
+Sheds,64,68,0.02564102564102564
+Sheds,64,69,0.02040816326530612
+Sheds,64,70,0.0
+Sheds,64,71,0.0
+Sheds,64,72,0.005025125628140704
+Sheds,64,73,0.0
+Sheds,64,74,0.0
+Sheds,64,75,0.0
+Sheds,64,76,0.07526881720430108
+Sheds,64,77,0.0989010989010989
+Sheds,64,78,0.0
+Sheds,64,79,0.0
+Sheds,64,80,0.0
+Sheds,64,81,0.0
+Sheds,64,82,0.005025125628140704
+Sheds,64,83,0.0
+Sheds,64,84,0.005025125628140704
+Sheds,64,85,0.015228426395939087
+Sheds,64,86,0.0
+Sheds,65,66,0.0
+Sheds,65,67,0.0
+Sheds,65,68,0.0
+Sheds,65,69,0.0
+Sheds,65,70,0.0
+Sheds,65,71,0.0
+Sheds,65,72,0.0
+Sheds,65,73,0.0
+Sheds,65,74,0.010101010101010102
+Sheds,65,75,0.0
+Sheds,65,76,0.08695652173913043
+Sheds,65,77,0.041666666666666664
+Sheds,65,78,0.0
+Sheds,65,79,0.0
+Sheds,65,80,0.0
+Sheds,65,81,0.0
+Sheds,65,82,0.0
+Sheds,65,83,0.0
+Sheds,65,84,0.0
+Sheds,65,85,0.0
+Sheds,65,86,0.0
+Sheds,66,67,0.0
+Sheds,66,68,0.0
+Sheds,66,69,0.010101010101010102
+Sheds,66,70,0.0
+Sheds,66,71,0.0
+Sheds,66,72,0.0
+Sheds,66,73,0.0
+Sheds,66,74,0.0
+Sheds,66,75,0.005025125628140704
+Sheds,66,76,0.015228426395939087
+Sheds,66,77,0.030927835051546393
+Sheds,66,78,0.0
+Sheds,66,79,0.0
+Sheds,66,80,0.0
+Sheds,66,81,0.0
+Sheds,66,82,0.0
+Sheds,66,83,0.0
+Sheds,66,84,0.0
+Sheds,66,85,0.0
+Sheds,66,86,0.0
+Sheds,67,68,0.0
+Sheds,67,69,0.0
+Sheds,67,70,0.0
+Sheds,67,71,0.0
+Sheds,67,72,0.0
+Sheds,67,73,0.0
+Sheds,67,74,0.0582010582010582
+Sheds,67,75,0.0
+Sheds,67,76,0.0
+Sheds,67,77,0.0
+Sheds,67,78,0.0
+Sheds,67,79,0.0
+Sheds,67,80,0.0
+Sheds,67,81,0.0
+Sheds,67,82,0.0
+Sheds,67,83,0.0
+Sheds,67,84,0.0
+Sheds,67,85,0.0
+Sheds,67,86,0.0
+Sheds,68,69,0.10497237569060773
+Sheds,68,70,0.0
+Sheds,68,71,0.0
+Sheds,68,72,0.0
+Sheds,68,73,0.0
+Sheds,68,74,0.0
+Sheds,68,75,0.0
+Sheds,68,76,0.03626943005181347
+Sheds,68,77,0.005025125628140704
+Sheds,68,78,0.0
+Sheds,68,79,0.0
+Sheds,68,80,0.0
+Sheds,68,81,0.0
+Sheds,68,82,0.0
+Sheds,68,83,0.0
+Sheds,68,84,0.0
+Sheds,68,85,0.0
+Sheds,68,86,0.0
+Sheds,69,70,0.0
+Sheds,69,71,0.0
+Sheds,69,72,0.0
+Sheds,69,73,0.0
+Sheds,69,74,0.0
+Sheds,69,75,0.0
+Sheds,69,76,0.015228426395939087
+Sheds,69,77,0.0
+Sheds,69,78,0.0
+Sheds,69,79,0.0
+Sheds,69,80,0.0
+Sheds,69,81,0.0
+Sheds,69,82,0.0
+Sheds,69,83,0.0
+Sheds,69,84,0.0
+Sheds,69,85,0.0
+Sheds,69,86,0.0
+Sheds,70,71,0.13636363636363635
+Sheds,70,72,0.0
+Sheds,70,73,0.0
+Sheds,70,74,0.0
+Sheds,70,75,0.0
+Sheds,70,76,0.0
+Sheds,70,77,0.0
+Sheds,70,78,0.0
+Sheds,70,79,0.0
+Sheds,70,80,0.010101010101010102
+Sheds,70,81,0.005025125628140704
+Sheds,70,82,0.0
+Sheds,70,83,0.0
+Sheds,70,84,0.0
+Sheds,70,85,0.0
+Sheds,70,86,0.0
+Sheds,71,72,0.0
+Sheds,71,73,0.0
+Sheds,71,74,0.0
+Sheds,71,75,0.0
+Sheds,71,76,0.0
+Sheds,71,77,0.0
+Sheds,71,78,0.0
+Sheds,71,79,0.0
+Sheds,71,80,0.02564102564102564
+Sheds,71,81,0.06382978723404255
+Sheds,71,82,0.0
+Sheds,71,83,0.0
+Sheds,71,84,0.0
+Sheds,71,85,0.0
+Sheds,71,86,0.0
+Sheds,72,73,0.0
+Sheds,72,74,0.0
+Sheds,72,75,0.0
+Sheds,72,76,0.0
+Sheds,72,77,0.0
+Sheds,72,78,0.0
+Sheds,72,79,0.0
+Sheds,72,80,0.08695652173913043
+Sheds,72,81,0.02040816326530612
+Sheds,72,82,0.015228426395939087
+Sheds,72,83,0.0
+Sheds,72,84,0.015228426395939087
+Sheds,72,85,0.0
+Sheds,72,86,0.0
+Sheds,73,74,0.0
+Sheds,73,75,0.0
+Sheds,73,76,0.0
+Sheds,73,77,0.0
+Sheds,73,78,0.0
+Sheds,73,79,0.0
+Sheds,73,80,0.0
+Sheds,73,81,0.0
+Sheds,73,82,0.0
+Sheds,73,83,0.04712041884816754
+Sheds,73,84,0.0
+Sheds,73,85,0.0
+Sheds,73,86,0.02040816326530612
+Sheds,74,75,0.0
+Sheds,74,76,0.02040816326530612
+Sheds,74,77,0.0
+Sheds,74,78,0.005025125628140704
+Sheds,74,79,0.0
+Sheds,74,80,0.0
+Sheds,74,81,0.0
+Sheds,74,82,0.0
+Sheds,74,83,0.0
+Sheds,74,84,0.02040816326530612
+Sheds,74,85,0.0
+Sheds,74,86,0.0
+Sheds,75,76,0.0
+Sheds,75,77,0.0
+Sheds,75,78,0.0
+Sheds,75,79,0.0
+Sheds,75,80,0.0
+Sheds,75,81,0.0
+Sheds,75,82,0.0
+Sheds,75,83,0.0
+Sheds,75,84,0.0
+Sheds,75,85,0.0
+Sheds,75,86,0.0
+Sheds,76,77,0.1834319526627219
+Sheds,76,78,0.005025125628140704
+Sheds,76,79,0.0
+Sheds,76,80,0.0
+Sheds,76,81,0.0
+Sheds,76,82,0.0
+Sheds,76,83,0.0
+Sheds,76,84,0.010101010101010102
+Sheds,76,85,0.005025125628140704
+Sheds,76,86,0.0
+Sheds,77,78,0.0
+Sheds,77,79,0.0
+Sheds,77,80,0.0
+Sheds,77,81,0.0
+Sheds,77,82,0.0
+Sheds,77,83,0.0
+Sheds,77,84,0.02040816326530612
+Sheds,77,85,0.0
+Sheds,77,86,0.0
+Sheds,78,79,0.0
+Sheds,78,80,0.0
+Sheds,78,81,0.0
+Sheds,78,82,0.0
+Sheds,78,83,0.0
+Sheds,78,84,0.0
+Sheds,78,85,0.0
+Sheds,78,86,0.0
+Sheds,79,80,0.010101010101010102
+Sheds,79,81,0.10497237569060773
+Sheds,79,82,0.0
+Sheds,79,83,0.0
+Sheds,79,84,0.0
+Sheds,79,85,0.0
+Sheds,79,86,0.0
+Sheds,80,81,0.1834319526627219
+Sheds,80,82,0.0
+Sheds,80,83,0.0
+Sheds,80,84,0.0
+Sheds,80,85,0.0
+Sheds,80,86,0.0
+Sheds,81,82,0.0
+Sheds,81,83,0.0
+Sheds,81,84,0.0
+Sheds,81,85,0.0
+Sheds,81,86,0.0
+Sheds,82,83,0.010101010101010102
+Sheds,82,84,0.0
+Sheds,82,85,0.010101010101010102
+Sheds,82,86,0.0
+Sheds,83,84,0.0
+Sheds,83,85,0.0
+Sheds,83,86,0.07526881720430108
+Sheds,84,85,0.0
+Sheds,84,86,0.005025125628140704
+Sheds,85,86,0.0
+Pond-1,0,1,0.0
+Pond-1,0,2,0.0
+Pond-1,0,3,0.0
+Pond-1,0,4,0.0
+Pond-1,0,5,0.0
+Pond-1,0,6,0.0
+Pond-1,0,7,0.0
+Pond-1,0,8,0.0
+Pond-1,0,9,0.0
+Pond-1,0,10,0.0
+Pond-1,0,11,0.0
+Pond-1,0,12,0.0
+Pond-1,0,13,0.0
+Pond-1,0,14,0.0
+Pond-1,0,15,0.0
+Pond-1,0,16,0.0
+Pond-1,0,17,0.0
+Pond-1,0,18,0.0
+Pond-1,0,19,0.0
+Pond-1,0,20,0.0
+Pond-1,0,21,0.0
+Pond-1,0,22,0.0
+Pond-1,0,23,0.0
+Pond-1,1,2,0.030927835051546393
+Pond-1,1,3,0.03626943005181347
+Pond-1,1,4,0.0
+Pond-1,1,5,0.0
+Pond-1,1,6,0.0
+Pond-1,1,7,0.0
+Pond-1,1,8,0.0
+Pond-1,1,9,0.04712041884816754
+Pond-1,1,10,0.015228426395939087
+Pond-1,1,11,0.03626943005181347
+Pond-1,1,12,0.0
+Pond-1,1,13,0.0
+Pond-1,1,14,0.0
+Pond-1,1,15,0.0
+Pond-1,1,16,0.0
+Pond-1,1,17,0.0
+Pond-1,1,18,0.0
+Pond-1,1,19,0.0
+Pond-1,1,20,0.0
+Pond-1,1,21,0.0
+Pond-1,1,22,0.0
+Pond-1,1,23,0.0
+Pond-1,2,3,0.010101010101010102
+Pond-1,2,4,0.005025125628140704
+Pond-1,2,5,0.0
+Pond-1,2,6,0.0
+Pond-1,2,7,0.0
+Pond-1,2,8,0.0
+Pond-1,2,9,0.0
+Pond-1,2,10,0.0
+Pond-1,2,11,0.010101010101010102
+Pond-1,2,12,0.0
+Pond-1,2,13,0.0
+Pond-1,2,14,0.0
+Pond-1,2,15,0.0
+Pond-1,2,16,0.0
+Pond-1,2,17,0.0
+Pond-1,2,18,0.0
+Pond-1,2,19,0.0
+Pond-1,2,20,0.0
+Pond-1,2,21,0.0
+Pond-1,2,22,0.0
+Pond-1,2,23,0.0
+Pond-1,3,4,0.0
+Pond-1,3,5,0.0
+Pond-1,3,6,0.0
+Pond-1,3,7,0.0
+Pond-1,3,8,0.0
+Pond-1,3,9,0.0
+Pond-1,3,10,0.0
+Pond-1,3,11,0.0
+Pond-1,3,12,0.0
+Pond-1,3,13,0.0
+Pond-1,3,14,0.0
+Pond-1,3,15,0.0
+Pond-1,3,16,0.0
+Pond-1,3,17,0.0
+Pond-1,3,18,0.0
+Pond-1,3,19,0.0
+Pond-1,3,20,0.0
+Pond-1,3,21,0.0
+Pond-1,3,22,0.0
+Pond-1,3,23,0.0
+Pond-1,4,5,0.005025125628140704
+Pond-1,4,6,0.0
+Pond-1,4,7,0.0
+Pond-1,4,8,0.08108108108108109
+Pond-1,4,9,0.0
+Pond-1,4,10,0.0
+Pond-1,4,11,0.0
+Pond-1,4,12,0.0
+Pond-1,4,13,0.0
+Pond-1,4,14,0.0
+Pond-1,4,15,0.0
+Pond-1,4,16,0.0
+Pond-1,4,17,0.0
+Pond-1,4,18,0.0
+Pond-1,4,19,0.0
+Pond-1,4,20,0.0
+Pond-1,4,21,0.0
+Pond-1,4,22,0.0
+Pond-1,4,23,0.0
+Pond-1,5,6,0.0
+Pond-1,5,7,0.005025125628140704
+Pond-1,5,8,0.05263157894736842
+Pond-1,5,9,0.0
+Pond-1,5,10,0.0
+Pond-1,5,11,0.0
+Pond-1,5,12,0.0
+Pond-1,5,13,0.0
+Pond-1,5,14,0.0
+Pond-1,5,15,0.0
+Pond-1,5,16,0.0
+Pond-1,5,17,0.0
+Pond-1,5,18,0.0
+Pond-1,5,19,0.0
+Pond-1,5,20,0.0
+Pond-1,5,21,0.0
+Pond-1,5,22,0.0
+Pond-1,5,23,0.0
+Pond-1,6,7,0.015228426395939087
+Pond-1,6,8,0.0
+Pond-1,6,9,0.0
+Pond-1,6,10,0.0
+Pond-1,6,11,0.0
+Pond-1,6,12,0.0
+Pond-1,6,13,0.0
+Pond-1,6,14,0.0
+Pond-1,6,15,0.0
+Pond-1,6,16,0.0
+Pond-1,6,17,0.0
+Pond-1,6,18,0.0
+Pond-1,6,19,0.0
+Pond-1,6,20,0.0
+Pond-1,6,21,0.0
+Pond-1,6,22,0.0
+Pond-1,6,23,0.0
+Pond-1,7,8,0.02040816326530612
+Pond-1,7,9,0.0
+Pond-1,7,10,0.0
+Pond-1,7,11,0.0
+Pond-1,7,12,0.0
+Pond-1,7,13,0.0
+Pond-1,7,14,0.0
+Pond-1,7,15,0.0
+Pond-1,7,16,0.0
+Pond-1,7,17,0.0
+Pond-1,7,18,0.0
+Pond-1,7,19,0.0
+Pond-1,7,20,0.0
+Pond-1,7,21,0.0
+Pond-1,7,22,0.0
+Pond-1,7,23,0.0
+Pond-1,8,9,0.0
+Pond-1,8,10,0.0
+Pond-1,8,11,0.0
+Pond-1,8,12,0.0
+Pond-1,8,13,0.0
+Pond-1,8,14,0.0
+Pond-1,8,15,0.0
+Pond-1,8,16,0.0
+Pond-1,8,17,0.0
+Pond-1,8,18,0.0
+Pond-1,8,19,0.0
+Pond-1,8,20,0.0
+Pond-1,8,21,0.0
+Pond-1,8,22,0.0
+Pond-1,8,23,0.0
+Pond-1,9,10,0.04712041884816754
+Pond-1,9,11,0.11731843575418995
+Pond-1,9,12,0.0
+Pond-1,9,13,0.0
+Pond-1,9,14,0.0
+Pond-1,9,15,0.0
+Pond-1,9,16,0.0
+Pond-1,9,17,0.0
+Pond-1,9,18,0.0
+Pond-1,9,19,0.0
+Pond-1,9,20,0.0
+Pond-1,9,21,0.0
+Pond-1,9,22,0.0
+Pond-1,9,23,0.0
+Pond-1,10,11,0.030927835051546393
+Pond-1,10,12,0.0
+Pond-1,10,13,0.0
+Pond-1,10,14,0.0
+Pond-1,10,15,0.0
+Pond-1,10,16,0.0
+Pond-1,10,17,0.0
+Pond-1,10,18,0.0
+Pond-1,10,19,0.0
+Pond-1,10,20,0.0
+Pond-1,10,21,0.0
+Pond-1,10,22,0.0
+Pond-1,10,23,0.0
+Pond-1,11,12,0.0
+Pond-1,11,13,0.0
+Pond-1,11,14,0.0
+Pond-1,11,15,0.0
+Pond-1,11,16,0.0
+Pond-1,11,17,0.0
+Pond-1,11,18,0.0
+Pond-1,11,19,0.0
+Pond-1,11,20,0.0
+Pond-1,11,21,0.0
+Pond-1,11,22,0.0
+Pond-1,11,23,0.0
+Pond-1,12,13,1.0
+Pond-1,12,14,1.0
+Pond-1,12,15,1.0
+Pond-1,12,16,1.0
+Pond-1,12,17,1.0
+Pond-1,12,18,1.0
+Pond-1,12,19,1.0
+Pond-1,12,20,1.0
+Pond-1,12,21,1.0
+Pond-1,12,22,1.0
+Pond-1,12,23,1.0
+Pond-1,13,14,1.0
+Pond-1,13,15,1.0
+Pond-1,13,16,1.0
+Pond-1,13,17,1.0
+Pond-1,13,18,1.0
+Pond-1,13,19,1.0
+Pond-1,13,20,1.0
+Pond-1,13,21,1.0
+Pond-1,13,22,1.0
+Pond-1,13,23,1.0
+Pond-1,14,15,1.0
+Pond-1,14,16,1.0
+Pond-1,14,17,1.0
+Pond-1,14,18,1.0
+Pond-1,14,19,1.0
+Pond-1,14,20,1.0
+Pond-1,14,21,1.0
+Pond-1,14,22,1.0
+Pond-1,14,23,1.0
+Pond-1,15,16,1.0
+Pond-1,15,17,1.0
+Pond-1,15,18,1.0
+Pond-1,15,19,1.0
+Pond-1,15,20,1.0
+Pond-1,15,21,1.0
+Pond-1,15,22,1.0
+Pond-1,15,23,1.0
+Pond-1,16,17,1.0
+Pond-1,16,18,1.0
+Pond-1,16,19,1.0
+Pond-1,16,20,1.0
+Pond-1,16,21,1.0
+Pond-1,16,22,1.0
+Pond-1,16,23,1.0
+Pond-1,17,18,1.0
+Pond-1,17,19,1.0
+Pond-1,17,20,1.0
+Pond-1,17,21,1.0
+Pond-1,17,22,1.0
+Pond-1,17,23,1.0
+Pond-1,18,19,1.0
+Pond-1,18,20,1.0
+Pond-1,18,21,1.0
+Pond-1,18,22,1.0
+Pond-1,18,23,1.0
+Pond-1,19,20,1.0
+Pond-1,19,21,1.0
+Pond-1,19,22,1.0
+Pond-1,19,23,1.0
+Pond-1,20,21,1.0
+Pond-1,20,22,1.0
+Pond-1,20,23,1.0
+Pond-1,21,22,1.0
+Pond-1,21,23,1.0
+Pond-1,22,23,1.0
+Pond-2,0,1,0.0
+Pond-2,0,2,0.0
+Pond-2,0,3,0.0
+Pond-2,0,4,0.0
+Pond-2,0,5,0.0
+Pond-2,0,6,0.0
+Pond-2,0,7,0.0
+Pond-2,0,8,0.0
+Pond-2,0,9,0.0
+Pond-2,0,10,0.0
+Pond-2,0,11,0.0
+Pond-2,0,12,0.0
+Pond-2,0,13,0.0
+Pond-2,0,14,0.0
+Pond-2,0,15,0.0
+Pond-2,0,16,0.0
+Pond-2,0,17,0.0
+Pond-2,0,18,0.0
+Pond-2,0,19,0.0
+Pond-2,0,20,0.0
+Pond-2,0,21,0.0
+Pond-2,0,22,0.0
+Pond-2,0,23,0.0
+Pond-2,1,2,0.0
+Pond-2,1,3,0.0
+Pond-2,1,4,0.0
+Pond-2,1,5,0.03626943005181347
+Pond-2,1,6,0.0
+Pond-2,1,7,0.041666666666666664
+Pond-2,1,8,0.041666666666666664
+Pond-2,1,9,0.0
+Pond-2,1,10,0.015228426395939087
+Pond-2,1,11,0.0
+Pond-2,1,12,0.0
+Pond-2,1,13,0.0
+Pond-2,1,14,0.0
+Pond-2,1,15,0.0
+Pond-2,1,16,0.0
+Pond-2,1,17,0.0
+Pond-2,1,18,0.0
+Pond-2,1,19,0.0
+Pond-2,1,20,0.0
+Pond-2,1,21,0.0
+Pond-2,1,22,0.0
+Pond-2,1,23,0.0
+Pond-2,2,3,0.0
+Pond-2,2,4,0.0582010582010582
+Pond-2,2,5,0.005025125628140704
+Pond-2,2,6,0.010101010101010102
+Pond-2,2,7,0.005025125628140704
+Pond-2,2,8,0.0
+Pond-2,2,9,0.0
+Pond-2,2,10,0.005025125628140704
+Pond-2,2,11,0.0
+Pond-2,2,12,0.0
+Pond-2,2,13,0.0
+Pond-2,2,14,0.0
+Pond-2,2,15,0.0
+Pond-2,2,16,0.0
+Pond-2,2,17,0.0
+Pond-2,2,18,0.0
+Pond-2,2,19,0.0
+Pond-2,2,20,0.0
+Pond-2,2,21,0.0
+Pond-2,2,22,0.0
+Pond-2,2,23,0.0
+Pond-2,3,4,0.0
+Pond-2,3,5,0.0
+Pond-2,3,6,0.0
+Pond-2,3,7,0.0
+Pond-2,3,8,0.010101010101010102
+Pond-2,3,9,0.0
+Pond-2,3,10,0.0
+Pond-2,3,11,0.13636363636363635
+Pond-2,3,12,0.0
+Pond-2,3,13,0.0
+Pond-2,3,14,0.0
+Pond-2,3,15,0.0
+Pond-2,3,16,0.0
+Pond-2,3,17,0.0
+Pond-2,3,18,0.0
+Pond-2,3,19,0.0
+Pond-2,3,20,0.0
+Pond-2,3,21,0.0
+Pond-2,3,22,0.0
+Pond-2,3,23,0.0
+Pond-2,4,5,0.0
+Pond-2,4,6,0.05263157894736842
+Pond-2,4,7,0.0
+Pond-2,4,8,0.0
+Pond-2,4,9,0.0
+Pond-2,4,10,0.005025125628140704
+Pond-2,4,11,0.0
+Pond-2,4,12,0.0
+Pond-2,4,13,0.0
+Pond-2,4,14,0.0
+Pond-2,4,15,0.0
+Pond-2,4,16,0.0
+Pond-2,4,17,0.0
+Pond-2,4,18,0.0
+Pond-2,4,19,0.0
+Pond-2,4,20,0.0
+Pond-2,4,21,0.0
+Pond-2,4,22,0.0
+Pond-2,4,23,0.0
+Pond-2,5,6,0.010101010101010102
+Pond-2,5,7,0.25
+Pond-2,5,8,0.25
+Pond-2,5,9,0.0
+Pond-2,5,10,0.015228426395939087
+Pond-2,5,11,0.0
+Pond-2,5,12,0.0
+Pond-2,5,13,0.0
+Pond-2,5,14,0.0
+Pond-2,5,15,0.0
+Pond-2,5,16,0.0
+Pond-2,5,17,0.0
+Pond-2,5,18,0.0
+Pond-2,5,19,0.0
+Pond-2,5,20,0.0
+Pond-2,5,21,0.0
+Pond-2,5,22,0.0
+Pond-2,5,23,0.0
+Pond-2,6,7,0.005025125628140704
+Pond-2,6,8,0.0
+Pond-2,6,9,0.0
+Pond-2,6,10,0.041666666666666664
+Pond-2,6,11,0.0
+Pond-2,6,12,0.0
+Pond-2,6,13,0.0
+Pond-2,6,14,0.0
+Pond-2,6,15,0.0
+Pond-2,6,16,0.0
+Pond-2,6,17,0.0
+Pond-2,6,18,0.0
+Pond-2,6,19,0.0
+Pond-2,6,20,0.0
+Pond-2,6,21,0.0
+Pond-2,6,22,0.0
+Pond-2,6,23,0.0
+Pond-2,7,8,0.19047619047619047
+Pond-2,7,9,0.0
+Pond-2,7,10,0.02040816326530612
+Pond-2,7,11,0.0
+Pond-2,7,12,0.0
+Pond-2,7,13,0.0
+Pond-2,7,14,0.0
+Pond-2,7,15,0.0
+Pond-2,7,16,0.0
+Pond-2,7,17,0.0
+Pond-2,7,18,0.0
+Pond-2,7,19,0.0
+Pond-2,7,20,0.0
+Pond-2,7,21,0.0
+Pond-2,7,22,0.0
+Pond-2,7,23,0.0
+Pond-2,8,9,0.0
+Pond-2,8,10,0.005025125628140704
+Pond-2,8,11,0.005025125628140704
+Pond-2,8,12,0.0
+Pond-2,8,13,0.0
+Pond-2,8,14,0.0
+Pond-2,8,15,0.0
+Pond-2,8,16,0.0
+Pond-2,8,17,0.0
+Pond-2,8,18,0.0
+Pond-2,8,19,0.0
+Pond-2,8,20,0.0
+Pond-2,8,21,0.0
+Pond-2,8,22,0.0
+Pond-2,8,23,0.0
+Pond-2,9,10,0.0
+Pond-2,9,11,0.0
+Pond-2,9,12,0.0
+Pond-2,9,13,0.0
+Pond-2,9,14,0.0
+Pond-2,9,15,0.0
+Pond-2,9,16,0.0
+Pond-2,9,17,0.0
+Pond-2,9,18,0.0
+Pond-2,9,19,0.0
+Pond-2,9,20,0.0
+Pond-2,9,21,0.0
+Pond-2,9,22,0.0
+Pond-2,9,23,0.0
+Pond-2,10,11,0.0
+Pond-2,10,12,0.0
+Pond-2,10,13,0.0
+Pond-2,10,14,0.0
+Pond-2,10,15,0.0
+Pond-2,10,16,0.0
+Pond-2,10,17,0.0
+Pond-2,10,18,0.0
+Pond-2,10,19,0.0
+Pond-2,10,20,0.0
+Pond-2,10,21,0.0
+Pond-2,10,22,0.0
+Pond-2,10,23,0.0
+Pond-2,11,12,0.0
+Pond-2,11,13,0.0
+Pond-2,11,14,0.0
+Pond-2,11,15,0.0
+Pond-2,11,16,0.0
+Pond-2,11,17,0.0
+Pond-2,11,18,0.0
+Pond-2,11,19,0.0
+Pond-2,11,20,0.0
+Pond-2,11,21,0.0
+Pond-2,11,22,0.0
+Pond-2,11,23,0.0
+Pond-2,12,13,1.0
+Pond-2,12,14,1.0
+Pond-2,12,15,1.0
+Pond-2,12,16,1.0
+Pond-2,12,17,1.0
+Pond-2,12,18,1.0
+Pond-2,12,19,1.0
+Pond-2,12,20,1.0
+Pond-2,12,21,1.0
+Pond-2,12,22,1.0
+Pond-2,12,23,1.0
+Pond-2,13,14,1.0
+Pond-2,13,15,1.0
+Pond-2,13,16,1.0
+Pond-2,13,17,1.0
+Pond-2,13,18,1.0
+Pond-2,13,19,1.0
+Pond-2,13,20,1.0
+Pond-2,13,21,1.0
+Pond-2,13,22,1.0
+Pond-2,13,23,1.0
+Pond-2,14,15,1.0
+Pond-2,14,16,1.0
+Pond-2,14,17,1.0
+Pond-2,14,18,1.0
+Pond-2,14,19,1.0
+Pond-2,14,20,1.0
+Pond-2,14,21,1.0
+Pond-2,14,22,1.0
+Pond-2,14,23,1.0
+Pond-2,15,16,1.0
+Pond-2,15,17,1.0
+Pond-2,15,18,1.0
+Pond-2,15,19,1.0
+Pond-2,15,20,1.0
+Pond-2,15,21,1.0
+Pond-2,15,22,1.0
+Pond-2,15,23,1.0
+Pond-2,16,17,1.0
+Pond-2,16,18,1.0
+Pond-2,16,19,1.0
+Pond-2,16,20,1.0
+Pond-2,16,21,1.0
+Pond-2,16,22,1.0
+Pond-2,16,23,1.0
+Pond-2,17,18,1.0
+Pond-2,17,19,1.0
+Pond-2,17,20,1.0
+Pond-2,17,21,1.0
+Pond-2,17,22,1.0
+Pond-2,17,23,1.0
+Pond-2,18,19,1.0
+Pond-2,18,20,1.0
+Pond-2,18,21,1.0
+Pond-2,18,22,1.0
+Pond-2,18,23,1.0
+Pond-2,19,20,1.0
+Pond-2,19,21,1.0
+Pond-2,19,22,1.0
+Pond-2,19,23,1.0
+Pond-2,20,21,1.0
+Pond-2,20,22,1.0
+Pond-2,20,23,1.0
+Pond-2,21,22,1.0
+Pond-2,21,23,1.0
+Pond-2,22,23,1.0
