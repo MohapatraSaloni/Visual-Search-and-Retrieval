@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+data/
+datasets/
+*.tif
+*.tiff
+*.zip
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# FAISS indexes
+*.index
+*.faiss
+
+# Generated outputs
+outputs/
+runs/
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Secrets
+.env
+*.key
