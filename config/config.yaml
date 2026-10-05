@@ -1,1 +1,198 @@
+# ============================================================
+# Visual Search and Retrieval for Multispectral Satellite
+# Imagery
+# ============================================================
 
+# ------------------------------------------------------------
+# Dataset / Data Representation
+# ------------------------------------------------------------
+data:
+  channels:
+    - B
+    - G
+    - R
+    - NIR
+
+  num_channels: 4
+
+  # Patch extraction
+  patch_size: 128
+  target_stride: 64
+  target_overlap: 0.50
+
+  # Dataset composition
+  development_images: 150
+  target_images: 40
+
+  # Query evaluation
+  query_chips: 221
+  num_classes: 8
+
+  classes:
+    - Brick Kiln
+    - Metro Shed
+    - Play Ground
+    - Pond-1
+    - Pond-2
+    - STP
+    - Sheds
+    - Solar Panel
+
+
+# ------------------------------------------------------------
+# Multispectral Normalization
+# ------------------------------------------------------------
+normalization:
+  scale_factor: 10000.0
+
+  mean:
+    B: 0.10424
+    G: 0.09753
+    R: 0.06988
+    NIR: 0.24941
+
+  std:
+    B: 0.06071
+    G: 0.04603
+    R: 0.03621
+    NIR: 0.09987
+
+
+# ------------------------------------------------------------
+# Representation Learning Model
+# ------------------------------------------------------------
+model:
+  backbone: resnet50
+  input_channels: 4
+
+  backbone_feature_dim: 2048
+
+  projection_head:
+    dimensions:
+      - 2048
+      - 2048
+      - 128
+    batch_normalization: true
+    activation: relu
+
+  embedding_dim: 128
+  embedding_normalization: l2
+
+
+# ------------------------------------------------------------
+# Self-Supervised Training
+# ------------------------------------------------------------
+training:
+  method: moco_v2
+  objective: momentum_contrastive
+
+  epochs: 360
+  batch_size: 32
+
+  queue_size: 65536
+  temperature: 0.2
+
+  optimizer:
+    name: adamw
+    learning_rate: 0.0001
+    weight_decay: 0.0001
+
+  mixed_precision: true
+  lr_schedule: cosine
+
+
+# ------------------------------------------------------------
+# Gallery Construction
+# ------------------------------------------------------------
+gallery:
+  patch_size: 128
+  stride: 64
+
+  expected_embeddings: 32542
+
+  metadata:
+    - image_id
+    - x
+    - y
+    - patch_size
+
+
+# ------------------------------------------------------------
+# Similarity Search
+# ------------------------------------------------------------
+retrieval:
+  index_type: IndexFlatIP
+  similarity: cosine
+  normalize_embeddings: true
+
+  # Baseline retrieval depth
+  baseline_depth: 500
+
+
+# ------------------------------------------------------------
+# Candidate Localization
+# ------------------------------------------------------------
+localization:
+  similarity_filtering: true
+
+  nms:
+    enabled: true
+    iou_threshold: 0.40
+
+  max_detections_per_class_per_image: 50
+
+
+# ------------------------------------------------------------
+# Inference Sensitivity Experiments
+# ------------------------------------------------------------
+experiments:
+  retrieval_depths:
+    - 1
+    - 5
+    - 10
+    - 25
+    - 50
+    - 100
+    - 250
+    - 500
+
+  similarity_threshold_offsets:
+    - -0.10
+    - -0.05
+    - 0.00
+    - 0.05
+    - 0.10
+
+  nms_iou_values:
+    - 0.20
+    - 0.30
+    - 0.40
+    - 0.50
+    - 0.60
+    - 0.70
+
+  scalability_gallery_sizes:
+    - 10000
+    - 25000
+
+
+# ------------------------------------------------------------
+# Query Perturbation Analysis
+# ------------------------------------------------------------
+perturbation:
+  brightness_factor: 1.10
+  contrast_factor: 1.10
+
+  transformations:
+    - brightness
+    - contrast
+    - horizontal_flip
+    - vertical_flip
+
+
+# ------------------------------------------------------------
+# Output Directories
+# ------------------------------------------------------------
+outputs:
+  figures_dir: results/figures
+  tables_dir: results/tables
