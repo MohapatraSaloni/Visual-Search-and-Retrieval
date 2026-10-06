@@ -45,3 +45,15 @@ Four-Channel Multispectral Imagery
               │
               ▼
     Candidate Regions
+## License
+
+All rights reserved.
+
+The source code in this repository is provided for viewing and
+research reference only. No permission is granted to copy, modify,
+redistribute, publish, or use the code or substantial portions of
+the code for other projects without prior written permission from
+the author.
+
+The dataset and challenge materials are not included in this repository
+and remain subject to their respective terms and restrictions.
